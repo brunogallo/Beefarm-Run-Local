@@ -1,0 +1,27 @@
+
+dasao.png
+size: 500,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 2
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+chanzi
+  rotate: false
+  xy: 172, 8
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+saozhou
+  rotate: false
+  xy: 336, 8
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,272 @@
+
+skeleton.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AE导出/喷雾4/cisecticide_00
+  rotate: false
+  xy: 203, 691
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+AE导出/喷雾4/cisecticide_01
+  rotate: true
+  xy: 330, 419
+  size: 28, 20
+  orig: 370, 250
+  offset: 7, 119
+  index: -1
+AE导出/喷雾4/cisecticide_02
+  rotate: true
+  xy: 288, 393
+  size: 54, 40
+  orig: 370, 250
+  offset: 7, 111
+  index: -1
+AE导出/喷雾4/cisecticide_03
+  rotate: true
+  xy: 305, 694
+  size: 78, 59
+  orig: 370, 250
+  offset: 7, 102
+  index: -1
+AE导出/喷雾4/cisecticide_04
+  rotate: false
+  xy: 203, 694
+  size: 100, 78
+  orig: 370, 250
+  offset: 7, 92
+  index: -1
+AE导出/喷雾4/cisecticide_05
+  rotate: true
+  xy: 1239, 242
+  size: 120, 97
+  orig: 370, 250
+  offset: 6, 81
+  index: -1
+AE导出/喷雾4/cisecticide_06
+  rotate: true
+  xy: 2, 5
+  size: 137, 112
+  orig: 370, 250
+  offset: 7, 72
+  index: -1
+AE导出/喷雾4/cisecticide_07
+  rotate: true
+  xy: 1259, 869
+  size: 153, 124
+  orig: 370, 250
+  offset: 7, 64
+  index: -1
+AE导出/喷雾4/cisecticide_08
+  rotate: false
+  xy: 216, 9
+  size: 171, 134
+  orig: 370, 250
+  offset: 7, 57
+  index: -1
+AE导出/喷雾4/cisecticide_09
+  rotate: true
+  xy: 543, 17
+  size: 187, 143
+  orig: 370, 250
+  offset: 6, 51
+  index: -1
+AE导出/喷雾4/cisecticide_10
+  rotate: true
+  xy: 389, 2
+  size: 202, 152
+  orig: 370, 250
+  offset: 7, 45
+  index: -1
+AE导出/喷雾4/cisecticide_11
+  rotate: true
+  xy: 1099, 808
+  size: 214, 158
+  orig: 370, 250
+  offset: 10, 41
+  index: -1
+AE导出/喷雾4/cisecticide_12
+  rotate: true
+  xy: 933, 791
+  size: 231, 164
+  orig: 370, 250
+  offset: 8, 38
+  index: -1
+AE导出/喷雾4/cisecticide_13
+  rotate: true
+  xy: 562, 297
+  size: 239, 169
+  orig: 370, 250
+  offset: 14, 36
+  index: -1
+AE导出/喷雾4/cisecticide_14
+  rotate: true
+  xy: 574, 782
+  size: 240, 175
+  orig: 370, 250
+  offset: 26, 33
+  index: -1
+AE导出/喷雾4/cisecticide_15
+  rotate: true
+  xy: 471, 538
+  size: 241, 177
+  orig: 370, 250
+  offset: 37, 33
+  index: -1
+AE导出/喷雾4/cisecticide_16
+  rotate: true
+  xy: 288, 449
+  size: 243, 181
+  orig: 370, 250
+  offset: 47, 32
+  index: -1
+AE导出/喷雾4/cisecticide_17
+  rotate: true
+  xy: 190, 145
+  size: 243, 182
+  orig: 370, 250
+  offset: 58, 34
+  index: -1
+AE导出/喷雾4/cisecticide_18
+  rotate: true
+  xy: 389, 781
+  size: 241, 183
+  orig: 370, 250
+  offset: 70, 34
+  index: -1
+AE导出/喷雾4/cisecticide_19
+  rotate: true
+  xy: 650, 542
+  size: 238, 184
+  orig: 370, 250
+  offset: 83, 34
+  index: -1
+AE导出/喷雾4/cisecticide_20
+  rotate: true
+  xy: 733, 304
+  size: 236, 185
+  orig: 370, 250
+  offset: 94, 34
+  index: -1
+AE导出/喷雾4/cisecticide_21
+  rotate: true
+  xy: 688, 58
+  size: 237, 186
+  orig: 370, 250
+  offset: 102, 34
+  index: -1
+AE导出/喷雾4/cisecticide_22
+  rotate: true
+  xy: 374, 206
+  size: 241, 186
+  orig: 370, 250
+  offset: 109, 34
+  index: -1
+AE导出/喷雾4/cisecticide_23
+  rotate: true
+  xy: 2, 144
+  size: 244, 186
+  orig: 370, 250
+  offset: 116, 34
+  index: -1
+AE导出/喷雾4/cisecticide_24
+  rotate: true
+  xy: 203, 774
+  size: 248, 184
+  orig: 370, 250
+  offset: 122, 35
+  index: -1
+AE导出/喷雾4/cisecticide_25
+  rotate: true
+  xy: 751, 784
+  size: 238, 180
+  orig: 370, 250
+  offset: 128, 36
+  index: -1
+AE导出/喷雾4/cisecticide_26
+  rotate: true
+  xy: 836, 550
+  size: 232, 179
+  orig: 370, 250
+  offset: 133, 39
+  index: -1
+AE导出/喷雾4/cisecticide_27
+  rotate: true
+  xy: 876, 73
+  size: 229, 182
+  orig: 370, 250
+  offset: 139, 38
+  index: -1
+AE导出/喷雾4/cisecticide_28
+  rotate: true
+  xy: 920, 323
+  size: 225, 185
+  orig: 370, 250
+  offset: 144, 36
+  index: -1
+AE导出/喷雾4/cisecticide_29
+  rotate: true
+  xy: 1017, 573
+  size: 216, 176
+  orig: 370, 250
+  offset: 148, 47
+  index: -1
+AE导出/喷雾4/cisecticide_30
+  rotate: true
+  xy: 1060, 108
+  size: 213, 177
+  orig: 370, 250
+  offset: 153, 48
+  index: -1
+AE导出/喷雾4/cisecticide_31
+  rotate: true
+  xy: 1195, 603
+  size: 203, 179
+  orig: 370, 250
+  offset: 157, 47
+  index: -1
+AE导出/喷雾4/cisecticide_32
+  rotate: true
+  xy: 1107, 364
+  size: 207, 148
+  orig: 370, 250
+  offset: 161, 46
+  index: -1
+AE导出/喷雾4/cisecticide_33
+  rotate: false
+  xy: 1060, 2
+  size: 167, 104
+  orig: 370, 250
+  offset: 164, 73
+  index: -1
+AE导出/喷雾4/cisecticide_34
+  rotate: false
+  xy: 1229, 9
+  size: 134, 97
+  orig: 370, 250
+  offset: 202, 72
+  index: -1
+AE导出/喷雾4/cisecticide_35
+  rotate: true
+  xy: 116, 6
+  size: 136, 98
+  orig: 370, 250
+  offset: 205, 71
+  index: -1
+finger
+  rotate: true
+  xy: 2, 390
+  size: 288, 284
+  orig: 292, 289
+  offset: 3, 3
+  index: -1
+insecticide
+  rotate: false
+  xy: 2, 680
+  size: 199, 342
+  orig: 408, 459
+  offset: 97, 42
+  index: -1

@@ -1,0 +1,27 @@
+
+heal.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heal
+  rotate: false
+  xy: 298, 14
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+needle_1
+  rotate: false
+  xy: 298, 48
+  size: 172, 194
+  orig: 408, 459
+  offset: 167, 203
+  index: -1
+needle_2
+  rotate: true
+  xy: 2, 2
+  size: 240, 294
+  orig: 408, 459
+  offset: 73, 62
+  index: -1

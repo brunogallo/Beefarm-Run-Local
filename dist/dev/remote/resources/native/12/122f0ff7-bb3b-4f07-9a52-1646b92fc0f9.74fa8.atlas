@@ -1,0 +1,20 @@
+
+watering.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+penhu
+  rotate: false
+  xy: 2, 2
+  size: 147, 135
+  orig: 162, 162
+  offset: 5, 16
+  index: -1
+waterdrop
+  rotate: true
+  xy: 151, 17
+  size: 120, 24
+  orig: 122, 24
+  offset: 0, 0
+  index: -1

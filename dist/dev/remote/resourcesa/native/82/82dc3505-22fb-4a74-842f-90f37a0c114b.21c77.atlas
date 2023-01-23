@@ -1,0 +1,1044 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+入场/001
+  rotate: true
+  xy: 2, 2026
+  size: 2, 42
+  orig: 640, 480
+  offset: 0, 277
+  index: -1
+入场/002
+  rotate: true
+  xy: 263, 1983
+  size: 45, 242
+  orig: 640, 480
+  offset: 0, 105
+  index: -1
+入场/003
+  rotate: true
+  xy: 674, 1941
+  size: 87, 294
+  orig: 640, 480
+  offset: 0, 89
+  index: -1
+入场/004
+  rotate: true
+  xy: 1522, 1881
+  size: 147, 375
+  orig: 640, 480
+  offset: 0, 67
+  index: -1
+入场/005
+  rotate: true
+  xy: 404, 1406
+  size: 186, 397
+  orig: 640, 480
+  offset: 0, 54
+  index: -1
+入场/006
+  rotate: true
+  xy: 2, 770
+  size: 223, 399
+  orig: 640, 480
+  offset: 0, 51
+  index: -1
+入场/007
+  rotate: true
+  xy: 735, 679
+  size: 241, 399
+  orig: 640, 480
+  offset: 0, 51
+  index: -1
+入场/008
+  rotate: true
+  xy: 2, 493
+  size: 275, 398
+  orig: 640, 480
+  offset: 0, 51
+  index: -1
+入场/009
+  rotate: true
+  xy: 787, 347
+  size: 307, 408
+  orig: 640, 480
+  offset: 0, 40
+  index: -1
+入场/011
+  rotate: false
+  xy: 2, 87
+  size: 376, 404
+  orig: 640, 480
+  offset: 0, 45
+  index: -1
+离场/017
+  rotate: true
+  xy: 380, 2
+  size: 343, 415
+  orig: 640, 480
+  offset: 175, 38
+  index: -1
+离场/018
+  rotate: true
+  xy: 1594, 91
+  size: 326, 402
+  orig: 640, 480
+  offset: 195, 49
+  index: -1
+离场/019
+  rotate: true
+  xy: 1197, 227
+  size: 318, 395
+  orig: 640, 480
+  offset: 204, 55
+  index: -1
+离场/020
+  rotate: true
+  xy: 402, 376
+  size: 301, 383
+  orig: 640, 480
+  offset: 222, 66
+  index: -1
+离场/021
+  rotate: false
+  xy: 1742, 419
+  size: 286, 370
+  orig: 640, 480
+  offset: 239, 77
+  index: -1
+离场/022
+  rotate: false
+  xy: 1477, 547
+  size: 263, 352
+  orig: 640, 480
+  offset: 261, 93
+  index: -1
+离场/023
+  rotate: true
+  xy: 1136, 656
+  size: 246, 339
+  orig: 640, 480
+  offset: 274, 104
+  index: -1
+离场/024
+  rotate: true
+  xy: 403, 703
+  size: 229, 330
+  orig: 640, 480
+  offset: 285, 115
+  index: -1
+离场/025
+  rotate: false
+  xy: 1806, 791
+  size: 221, 325
+  orig: 640, 480
+  offset: 291, 122
+  index: -1
+离场/026
+  rotate: true
+  xy: 2, 995
+  size: 212, 318
+  orig: 640, 480
+  offset: 302, 135
+  index: -1
+离场/027
+  rotate: true
+  xy: 322, 995
+  size: 212, 311
+  orig: 640, 480
+  offset: 305, 147
+  index: -1
+离场/028
+  rotate: true
+  xy: 1207, 904
+  size: 215, 301
+  orig: 640, 480
+  offset: 305, 163
+  index: -1
+离场/029
+  rotate: true
+  xy: 1510, 901
+  size: 215, 294
+  orig: 640, 480
+  offset: 303, 173
+  index: -1
+离场/030
+  rotate: true
+  xy: 635, 934
+  size: 212, 286
+  orig: 640, 480
+  offset: 302, 183
+  index: -1
+离场/031
+  rotate: true
+  xy: 923, 922
+  size: 212, 282
+  orig: 640, 480
+  offset: 300, 188
+  index: -1
+离场/032
+  rotate: true
+  xy: 1670, 1118
+  size: 208, 274
+  orig: 640, 480
+  offset: 298, 197
+  index: -1
+离场/033
+  rotate: true
+  xy: 1403, 1121
+  size: 205, 265
+  orig: 640, 480
+  offset: 296, 205
+  index: -1
+离场/034
+  rotate: true
+  xy: 1147, 1136
+  size: 199, 254
+  orig: 640, 480
+  offset: 292, 214
+  index: -1
+离场/035
+  rotate: true
+  xy: 661, 1184
+  size: 196, 246
+  orig: 640, 480
+  offset: 288, 219
+  index: -1
+离场/036
+  rotate: true
+  xy: 1658, 1328
+  size: 194, 239
+  orig: 640, 480
+  offset: 285, 223
+  index: -1
+离场/037
+  rotate: true
+  xy: 909, 1148
+  size: 196, 236
+  orig: 640, 480
+  offset: 281, 224
+  index: -1
+离场/038
+  rotate: true
+  xy: 1427, 1330
+  size: 193, 229
+  orig: 640, 480
+  offset: 275, 227
+  index: -1
+离场/039
+  rotate: true
+  xy: 217, 1209
+  size: 195, 223
+  orig: 640, 480
+  offset: 268, 231
+  index: -1
+离场/040
+  rotate: true
+  xy: 442, 1209
+  size: 195, 217
+  orig: 640, 480
+  offset: 258, 235
+  index: -1
+离场/041
+  rotate: true
+  xy: 2, 1248
+  size: 194, 213
+  orig: 640, 480
+  offset: 251, 238
+  index: -1
+离场/042
+  rotate: true
+  xy: 803, 1382
+  size: 191, 209
+  orig: 640, 480
+  offset: 246, 241
+  index: -1
+离场/043
+  rotate: true
+  xy: 1014, 1346
+  size: 191, 206
+  orig: 640, 480
+  offset: 242, 243
+  index: -1
+离场/044
+  rotate: true
+  xy: 1222, 1337
+  size: 191, 203
+  orig: 640, 480
+  offset: 236, 245
+  index: -1
+离场/045
+  rotate: true
+  xy: 201, 1444
+  size: 190, 201
+  orig: 640, 480
+  offset: 230, 248
+  index: -1
+离场/046
+  rotate: true
+  xy: 2, 1457
+  size: 188, 197
+  orig: 640, 480
+  offset: 222, 252
+  index: -1
+离场/047
+  rotate: false
+  xy: 953, 1575
+  size: 187, 195
+  orig: 640, 480
+  offset: 216, 253
+  index: -1
+离场/048
+  rotate: true
+  xy: 1735, 1524
+  size: 184, 195
+  orig: 640, 480
+  offset: 211, 252
+  index: -1
+离场/049
+  rotate: true
+  xy: 1537, 1525
+  size: 183, 196
+  orig: 640, 480
+  offset: 208, 251
+  index: -1
+离场/050
+  rotate: true
+  xy: 1142, 1539
+  size: 179, 196
+  orig: 640, 480
+  offset: 203, 250
+  index: -1
+离场/051
+  rotate: true
+  xy: 1340, 1530
+  size: 179, 195
+  orig: 640, 480
+  offset: 197, 249
+  index: -1
+离场/052
+  rotate: true
+  xy: 757, 1594
+  size: 176, 194
+  orig: 640, 480
+  offset: 189, 247
+  index: -1
+离场/053
+  rotate: true
+  xy: 562, 1599
+  size: 175, 193
+  orig: 640, 480
+  offset: 183, 246
+  index: -1
+离场/054
+  rotate: true
+  xy: 368, 1636
+  size: 174, 192
+  orig: 640, 480
+  offset: 176, 244
+  index: -1
+离场/055
+  rotate: true
+  xy: 174, 1647
+  size: 173, 192
+  orig: 640, 480
+  offset: 173, 243
+  index: -1
+离场/056
+  rotate: false
+  xy: 1143, 1722
+  size: 172, 191
+  orig: 640, 480
+  offset: 166, 241
+  index: -1
+离场/057
+  rotate: false
+  xy: 2, 1650
+  size: 170, 191
+  orig: 640, 480
+  offset: 159, 238
+  index: -1
+离场/058
+  rotate: true
+  xy: 1703, 1710
+  size: 169, 191
+  orig: 640, 480
+  offset: 147, 233
+  index: -1
+离场/059
+  rotate: true
+  xy: 1510, 1711
+  size: 168, 191
+  orig: 640, 480
+  offset: 137, 228
+  index: -1
+离场/060
+  rotate: true
+  xy: 1317, 1720
+  size: 167, 191
+  orig: 640, 480
+  offset: 124, 221
+  index: -1
+离场/061
+  rotate: true
+  xy: 951, 1772
+  size: 166, 190
+  orig: 640, 480
+  offset: 116, 217
+  index: -1
+离场/062
+  rotate: true
+  xy: 760, 1774
+  size: 165, 189
+  orig: 640, 480
+  offset: 98, 207
+  index: -1
+离场/063
+  rotate: true
+  xy: 569, 1776
+  size: 163, 189
+  orig: 640, 480
+  offset: 77, 195
+  index: -1
+离场/064
+  rotate: true
+  xy: 380, 1812
+  size: 161, 187
+  orig: 640, 480
+  offset: 43, 176
+  index: -1
+离场/065
+  rotate: true
+  xy: 191, 1822
+  size: 159, 187
+  orig: 640, 480
+  offset: 19, 162
+  index: -1
+离场/066
+  rotate: true
+  xy: 2, 1843
+  size: 152, 187
+  orig: 640, 480
+  offset: 0, 147
+  index: -1
+离场/067
+  rotate: true
+  xy: 1334, 1889
+  size: 139, 186
+  orig: 640, 480
+  offset: 0, 140
+  index: -1
+离场/068
+  rotate: true
+  xy: 1149, 1915
+  size: 113, 183
+  orig: 640, 480
+  offset: 0, 128
+  index: -1
+离场/069
+  rotate: true
+  xy: 970, 1940
+  size: 88, 177
+  orig: 640, 480
+  offset: 0, 120
+  index: -1
+离场/070
+  rotate: true
+  xy: 507, 1975
+  size: 53, 165
+  orig: 640, 480
+  offset: 0, 112
+  index: -1
+离场/071
+  rotate: true
+  xy: 130, 1997
+  size: 31, 131
+  orig: 640, 480
+  offset: 0, 118
+  index: -1
+离场/072
+  rotate: true
+  xy: 46, 2017
+  size: 11, 82
+  orig: 640, 480
+  offset: 0, 155
+  index: -1
+
+skeleton2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: false
+  xy: 2, 962
+  size: 788, 880
+  orig: 788, 882
+  offset: 0, 1
+  index: -1
+待机/L015
+  rotate: false
+  xy: 1368, 529
+  size: 463, 448
+  orig: 640, 480
+  offset: 40, 0
+  index: -1
+待机/L016
+  rotate: false
+  xy: 911, 7
+  size: 464, 448
+  orig: 640, 480
+  offset: 39, 0
+  index: -1
+待机/R014
+  rotate: true
+  xy: 1377, 24
+  size: 503, 447
+  orig: 640, 480
+  offset: 137, 20
+  index: -1
+待机/R015
+  rotate: true
+  xy: 918, 457
+  size: 503, 448
+  orig: 640, 480
+  offset: 137, 20
+  index: -1
+待机/R016
+  rotate: true
+  xy: 2, 2
+  size: 503, 448
+  orig: 640, 480
+  offset: 137, 20
+  index: -1
+待机/R017
+  rotate: true
+  xy: 1256, 1339
+  size: 503, 448
+  orig: 640, 480
+  offset: 137, 20
+  index: -1
+离场/004
+  rotate: false
+  xy: 460, 508
+  size: 456, 452
+  orig: 640, 480
+  offset: 37, 0
+  index: -1
+离场/005
+  rotate: true
+  xy: 2, 507
+  size: 453, 456
+  orig: 640, 480
+  offset: 37, 0
+  index: -1
+离场/006
+  rotate: false
+  xy: 460, 47
+  size: 449, 459
+  orig: 640, 480
+  offset: 37, 0
+  index: -1
+离场/009
+  rotate: true
+  xy: 792, 1392
+  size: 450, 462
+  orig: 640, 480
+  offset: 30, 0
+  index: -1
+离场/011
+  rotate: true
+  xy: 792, 962
+  size: 428, 462
+  orig: 640, 480
+  offset: 56, 0
+  index: -1
+离场/016
+  rotate: true
+  xy: 1256, 979
+  size: 358, 428
+  orig: 640, 480
+  offset: 155, 26
+  index: -1
+
+skeleton3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+入场/010
+  rotate: true
+  xy: 2, 1286
+  size: 351, 406
+  orig: 640, 480
+  offset: 0, 46
+  index: -1
+入场/012
+  rotate: true
+  xy: 1321, 1239
+  size: 398, 404
+  orig: 640, 480
+  offset: 0, 42
+  index: -1
+入场/013
+  rotate: true
+  xy: 2, 876
+  size: 408, 404
+  orig: 640, 480
+  offset: 0, 41
+  index: -1
+入场/014
+  rotate: false
+  xy: 2, 449
+  size: 410, 405
+  orig: 640, 480
+  offset: 16, 37
+  index: -1
+入场/015
+  rotate: false
+  xy: 1230, 833
+  size: 410, 404
+  orig: 640, 480
+  offset: 32, 35
+  index: -1
+入场/016
+  rotate: false
+  xy: 414, 433
+  size: 409, 406
+  orig: 640, 480
+  offset: 53, 31
+  index: -1
+入场/017
+  rotate: false
+  xy: 825, 425
+  size: 410, 406
+  orig: 640, 480
+  offset: 65, 29
+  index: -1
+入场/018
+  rotate: false
+  xy: 1237, 419
+  size: 409, 406
+  orig: 640, 480
+  offset: 77, 27
+  index: -1
+入场/019
+  rotate: false
+  xy: 2, 41
+  size: 410, 406
+  orig: 640, 480
+  offset: 82, 26
+  index: -1
+入场/020
+  rotate: false
+  xy: 414, 25
+  size: 409, 406
+  orig: 640, 480
+  offset: 94, 24
+  index: -1
+入场/021
+  rotate: true
+  xy: 1642, 827
+  size: 410, 404
+  orig: 640, 480
+  offset: 105, 24
+  index: -1
+入场/022
+  rotate: false
+  xy: 819, 841
+  size: 409, 401
+  orig: 640, 480
+  offset: 125, 24
+  index: -1
+入场/023
+  rotate: false
+  xy: 408, 856
+  size: 409, 399
+  orig: 640, 480
+  offset: 140, 24
+  index: -1
+离场/012
+  rotate: true
+  xy: 1287, 2
+  size: 415, 461
+  orig: 640, 480
+  offset: 73, 0
+  index: -1
+离场/013
+  rotate: true
+  xy: 825, 9
+  size: 408, 460
+  orig: 640, 480
+  offset: 83, 0
+  index: -1
+离场/014
+  rotate: true
+  xy: 861, 1244
+  size: 393, 458
+  orig: 640, 480
+  offset: 104, 0
+  index: -1
+离场/015
+  rotate: true
+  xy: 410, 1257
+  size: 380, 449
+  orig: 640, 480
+  offset: 124, 8
+  index: -1
+
+skeleton4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+待机/L001
+  rotate: false
+  xy: 2, 1318
+  size: 452, 431
+  orig: 640, 480
+  offset: 45, 0
+  index: -1
+待机/L002
+  rotate: false
+  xy: 913, 1317
+  size: 452, 432
+  orig: 640, 480
+  offset: 45, 0
+  index: -1
+待机/L003
+  rotate: false
+  xy: 983, 880
+  size: 454, 434
+  orig: 640, 480
+  offset: 44, 0
+  index: -1
+待机/L004
+  rotate: false
+  xy: 952, 442
+  size: 456, 436
+  orig: 640, 480
+  offset: 43, 0
+  index: -1
+待机/L005
+  rotate: false
+  xy: 2, 6
+  size: 456, 437
+  orig: 640, 480
+  offset: 43, 0
+  index: -1
+待机/L022
+  rotate: false
+  xy: 460, 6
+  size: 456, 437
+  orig: 640, 480
+  offset: 43, 0
+  index: -1
+待机/L023
+  rotate: false
+  xy: 2, 446
+  size: 455, 435
+  orig: 640, 480
+  offset: 43, 0
+  index: -1
+待机/L024
+  rotate: false
+  xy: 1367, 1316
+  size: 453, 433
+  orig: 640, 480
+  offset: 44, 0
+  index: -1
+待机/R001
+  rotate: false
+  xy: 2, 883
+  size: 487, 433
+  orig: 640, 480
+  offset: 143, 19
+  index: -1
+待机/R002
+  rotate: false
+  xy: 1439, 880
+  size: 489, 434
+  orig: 640, 480
+  offset: 143, 19
+  index: -1
+待机/R003
+  rotate: false
+  xy: 459, 445
+  size: 491, 435
+  orig: 640, 480
+  offset: 142, 19
+  index: -1
+待机/R004
+  rotate: false
+  xy: 918, 3
+  size: 493, 437
+  orig: 640, 480
+  offset: 141, 19
+  index: -1
+待机/R005
+  rotate: false
+  xy: 1413, 2
+  size: 493, 438
+  orig: 640, 480
+  offset: 141, 19
+  index: -1
+待机/R023
+  rotate: false
+  xy: 1410, 442
+  size: 491, 436
+  orig: 640, 480
+  offset: 142, 20
+  index: -1
+待机/R024
+  rotate: false
+  xy: 491, 882
+  size: 490, 433
+  orig: 640, 480
+  offset: 142, 20
+  index: -1
+离场/001
+  rotate: false
+  xy: 456, 1318
+  size: 455, 431
+  orig: 640, 480
+  offset: 44, 0
+  index: -1
+
+skeleton5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+待机/L006
+  rotate: false
+  xy: 461, 1335
+  size: 458, 439
+  orig: 640, 480
+  offset: 42, 0
+  index: -1
+待机/L007
+  rotate: false
+  xy: 2, 893
+  size: 458, 440
+  orig: 640, 480
+  offset: 42, 0
+  index: -1
+待机/L008
+  rotate: false
+  xy: 960, 892
+  size: 459, 441
+  orig: 640, 480
+  offset: 41, 0
+  index: -1
+待机/L009
+  rotate: false
+  xy: 965, 448
+  size: 460, 442
+  orig: 640, 480
+  offset: 41, 0
+  index: -1
+待机/L010
+  rotate: false
+  xy: 1431, 2
+  size: 463, 444
+  orig: 640, 480
+  offset: 39, 0
+  index: -1
+待机/L020
+  rotate: false
+  xy: 2, 5
+  size: 463, 443
+  orig: 640, 480
+  offset: 39, 0
+  index: -1
+待机/L021
+  rotate: false
+  xy: 1421, 892
+  size: 460, 441
+  orig: 640, 480
+  offset: 41, 0
+  index: -1
+待机/R006
+  rotate: false
+  xy: 921, 1335
+  size: 495, 439
+  orig: 640, 480
+  offset: 140, 19
+  index: -1
+待机/R007
+  rotate: false
+  xy: 462, 893
+  size: 496, 440
+  orig: 640, 480
+  offset: 140, 19
+  index: -1
+待机/R008
+  rotate: false
+  xy: 2, 450
+  size: 497, 441
+  orig: 640, 480
+  offset: 140, 19
+  index: -1
+待机/R009
+  rotate: false
+  xy: 1427, 448
+  size: 498, 442
+  orig: 640, 480
+  offset: 139, 19
+  index: -1
+待机/R021
+  rotate: false
+  xy: 930, 3
+  size: 499, 443
+  orig: 640, 480
+  offset: 139, 20
+  index: -1
+待机/R022
+  rotate: false
+  xy: 1418, 1335
+  size: 494, 439
+  orig: 640, 480
+  offset: 141, 20
+  index: -1
+离场/002
+  rotate: false
+  xy: 2, 1336
+  size: 457, 438
+  orig: 640, 480
+  offset: 42, 0
+  index: -1
+离场/008
+  rotate: true
+  xy: 467, 4
+  size: 443, 461
+  orig: 640, 480
+  offset: 39, 0
+  index: -1
+离场/010
+  rotate: true
+  xy: 501, 449
+  size: 441, 462
+  orig: 640, 480
+  offset: 40, 0
+  index: -1
+
+skeleton6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+待机/L011
+  rotate: false
+  xy: 505, 1348
+  size: 463, 445
+  orig: 640, 480
+  offset: 39, 0
+  index: -1
+待机/L012
+  rotate: false
+  xy: 965, 900
+  size: 461, 446
+  orig: 640, 480
+  offset: 41, 0
+  index: -1
+待机/L013
+  rotate: false
+  xy: 969, 451
+  size: 464, 447
+  orig: 640, 480
+  offset: 39, 0
+  index: -1
+待机/L014
+  rotate: false
+  xy: 1435, 451
+  size: 464, 447
+  orig: 640, 480
+  offset: 39, 0
+  index: -1
+待机/L017
+  rotate: false
+  xy: 2, 4
+  size: 464, 447
+  orig: 640, 480
+  offset: 39, 0
+  index: -1
+待机/L018
+  rotate: false
+  xy: 1428, 900
+  size: 462, 446
+  orig: 640, 480
+  offset: 41, 0
+  index: -1
+待机/L019
+  rotate: false
+  xy: 970, 1348
+  size: 463, 445
+  orig: 640, 480
+  offset: 39, 0
+  index: -1
+待机/R010
+  rotate: false
+  xy: 2, 1349
+  size: 501, 444
+  orig: 640, 480
+  offset: 138, 19
+  index: -1
+待机/R011
+  rotate: false
+  xy: 1435, 1348
+  size: 501, 445
+  orig: 640, 480
+  offset: 138, 19
+  index: -1
+待机/R012
+  rotate: false
+  xy: 468, 2
+  size: 502, 447
+  orig: 640, 480
+  offset: 138, 19
+  index: -1
+待机/R013
+  rotate: false
+  xy: 2, 453
+  size: 503, 446
+  orig: 640, 480
+  offset: 137, 20
+  index: -1
+待机/R018
+  rotate: false
+  xy: 972, 2
+  size: 503, 447
+  orig: 640, 480
+  offset: 137, 20
+  index: -1
+待机/R019
+  rotate: false
+  xy: 1477, 2
+  size: 502, 447
+  orig: 640, 480
+  offset: 138, 20
+  index: -1
+待机/R020
+  rotate: false
+  xy: 461, 901
+  size: 502, 445
+  orig: 640, 480
+  offset: 138, 20
+  index: -1
+离场/003
+  rotate: false
+  xy: 2, 902
+  size: 457, 445
+  orig: 640, 480
+  offset: 41, 0
+  index: -1
+离场/007
+  rotate: true
+  xy: 507, 452
+  size: 446, 460
+  orig: 640, 480
+  offset: 38, 0
+  index: -1

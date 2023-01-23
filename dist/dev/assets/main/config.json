@@ -1,0 +1,33 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "main",
+    "deps": [
+        "resources"
+    ],
+    "uuids": [
+        "1b2e59d4-d81c-498e-900b-1cbd6373d8f7",
+        "ec402a19-1163-4aca-bc63-2ba39137b638",
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8"
+    ],
+    "paths": {
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8": [
+            "db:/internal/default_renderpipeline/builtin-forward",
+            "cc.RenderPipeline"
+        ]
+    },
+    "scenes": {
+        "db://assets/scens/Game.scene": "ec402a19-1163-4aca-bc63-2ba39137b638"
+    },
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [
+        "1b2e59d4-d81c-498e-900b-1cbd6373d8f7",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {}
+}

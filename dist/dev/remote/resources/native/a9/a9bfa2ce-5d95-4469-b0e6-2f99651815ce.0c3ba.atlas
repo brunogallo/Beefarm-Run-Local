@@ -1,0 +1,20 @@
+
+uplevelui.png
+size: 931,181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai
+  rotate: false
+  xy: 2, 35
+  size: 617, 144
+  orig: 617, 144
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 621, 2
+  size: 308, 177
+  orig: 308, 177
+  offset: 0, 0
+  index: -1
