@@ -24,7 +24,7 @@
     "moduleIds": [],
     "renderPipeline": "",
     "engineModules": [],
-    "server": "http://192.168.15.24:9002/https://farm-sms.c92.xyz/client/",
+    "server": "http://192.168.15.24:9002/https://gameresfarm.mrmb.xyz/client/",
     "customLayers": [
         {
             "name": "GameLayer",

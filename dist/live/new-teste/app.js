@@ -1,6 +1,6 @@
 (function() {
     var e = {
-        3266: function(e, a, t) {
+        9981: function(e, a, t) {
             "use strict";
             t.r(a);
             var i = t(8081)
@@ -10,7 +10,7 @@
               , r = t(9632)
               , l = s()(o());
             l.i(r.Z),
-            l.push([e.id, "*{margin:0;padding:0;-webkit-touch-callout:none;-webkit-user-select:none;-moz-user-select:none;user-select:none;a,button,img,input,textarea{-webkit-tap-highlight-color:rgba(255,255,255,0)}}#app{width:100%;height:100%;box-sizing:border-box;font-family:mini;color:#fff;font-weight:700;text-align:center;overflow:hidden}.logo{width:240px;position:absolute;top:10px;left:180px}.logo_mobile{width:120px;position:absolute;top:30px;left:20px}.btnBg{color:#fff;line-height:60px;word-spacing:5px;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/btn_bg.png);background-size:100% 100%;background-repeat:no-repeat;cursor:pointer}.btnBg:hover{transform:scale(1.1);background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/btnPass_bg.png);background-size:100% 100%;background-repeat:no-repeat}.btnChooseBg{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/btnCheck_bg.png);background-size:100% 100%;background-repeat:no-repeat;cursor:pointer}.whiteBg{border:2px solid #fff;box-shadow:0 0 8px 0 rgba(0,0,0,.5);border-radius:10px}.mask{background:rgba(0,0,0,.7);position:fixed;top:0;right:0;bottom:0;left:0;z-index:99999}.laoding{margin-top:15%}.laoding_mobile{margin-top:40%}.w20margin{width:20%;margin:auto}.w25margin{width:25%;margin:auto}.w30{width:30%}.w30margin{width:30%;margin:auto}.w35{width:35%}.w35margin{width:35%;margin:auto}.w40margin{width:40%;margin:auto}.w50margin{width:50%;margin:auto}.w55margin{width:55%;margin:auto}.w60margin{width:60%;margin:auto}.w65{width:65%}.w65margin{width:65%;margin:auto}.w70{width:70%}.w70margin{width:70%;margin:auto}.w75{width:75%}.w75margin{width:75%;margin:auto}.w80{width:80%}.w80margin{width:80%;margin:auto}.w82{width:82%}.w83{width:83%}.w85{width:85%}.w85margin{width:85%;margin:auto}.w94margin{width:94%;margin:auto}.w100{width:100%}.fl{display:flex}.flbetween,.flitem{display:flex;align-items:center}.flbetween,.flbetween_item{justify-content:space-between}.flbetween_item{display:flex}.flcenter{align-items:center}.flcenter,.flcenter_item{display:flex;justify-content:center}.flaround{align-items:center}.flaround,.flaround_item{display:flex;justify-content:space-around}.flleft{justify-content:left}.flleft,.flright{display:flex;align-items:center}.flright{justify-content:right}.flevenly{display:flex;justify-content:space-evenly;align-items:center}.flwarp_around{justify-content:space-around}.flwarp_around,.flwarpcenter{display:flex;flex-wrap:wrap;align-items:center}.flwarpcenter{justify-content:center}.flwarpcenter_item{display:flex;justify-content:center;flex-wrap:wrap}.flwarpbetween{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center}.margintop_10{margin-top:10px}.margintop_20{margin-top:20px}.margintop_30{margin-top:30px}.margintop_40{margin-top:40px}.marginTB10{margin:10px 0}.marginTB15{margin:15px 0}.marginTB20{margin:20px 0}.margin_20{margin:20px auto}.margin_30{margin:30px auto}.margin_60{margin:60px auto}.marginTB30{margin:30px 0}.padding_10{padding:10px}.padding_20{padding:20px}.paddingLR10{padding:0 10px}.paddingLR20{padding:0 20px}.fontWeight_normal{font-weight:400}.white_box{background-color:#fff;border-radius:16px;padding:20px}.text-cut{text-overflow:ellipsis;white-space:nowrap;overflow:hidden}.text-cut2{-webkit-line-clamp:2}.text-cut2,.text-cut3{overflow:hidden;display:-webkit-box;-webkit-box-orient:vertical;word-break:break-all;text-overflow:ellipsis}.text-cut3{-webkit-line-clamp:3}.text-cut5{-webkit-line-clamp:5}.text-cut5,.text-cut7{overflow:hidden;display:-webkit-box;-webkit-box-orient:vertical;word-break:break-all;text-overflow:ellipsis}.text-cut7{-webkit-line-clamp:7}.text-cut8{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:8}.text-cut8,.text-cutNULL{overflow:hidden;word-break:break-all;text-overflow:ellipsis}.textCenter{text-align:center}.textLeft{text-align:left}", ""]),
+            l.push([e.id, "*{margin:0;padding:0;-webkit-touch-callout:none;-webkit-user-select:none;-moz-user-select:none;user-select:none;a,button,img,input,textarea{-webkit-tap-highlight-color:rgba(255,255,255,0)}}#app{width:100%;height:100%;box-sizing:border-box;font-family:mini;color:#fff;font-weight:700;text-align:center;overflow:hidden}.logo{width:210px;position:absolute;top:10px;left:180px}.logo_mobile{width:90px;position:absolute;top:30px;left:20px}.btnBg{color:#fff;line-height:60px;word-spacing:5px;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/btn_bg.png);background-size:100% 100%;background-repeat:no-repeat;cursor:pointer}.btnBg:hover{transform:scale(1.1);background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/btnPass_bg.png);background-size:100% 100%;background-repeat:no-repeat}.btnChooseBg{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/btnCheck_bg.png);background-size:100% 100%;background-repeat:no-repeat;cursor:pointer}.whiteBg{border:2px solid #fff;box-shadow:0 0 8px 0 rgba(0,0,0,.5);border-radius:10px}.mask{background:rgba(0,0,0,.7);position:fixed;top:0;right:0;bottom:0;left:0;z-index:99999}.laoding{margin-top:15%}.laoding_mobile{margin-top:40%}.w20margin{width:20%;margin:auto}.w25margin{width:25%;margin:auto}.w30{width:30%}.w30margin{width:30%;margin:auto}.w35{width:35%}.w35margin{width:35%;margin:auto}.w40margin{width:40%;margin:auto}.w50margin{width:50%;margin:auto}.w55margin{width:55%;margin:auto}.w60margin{width:60%;margin:auto}.w65{width:65%}.w65margin{width:65%;margin:auto}.w70{width:70%}.w70margin{width:70%;margin:auto}.w75{width:75%}.w75margin{width:75%;margin:auto}.w80{width:80%}.w80margin{width:80%;margin:auto}.w82{width:82%}.w83{width:83%}.w85{width:85%}.w85margin{width:85%;margin:auto}.w94margin{width:94%;margin:auto}.w100{width:100%}.fl{display:flex}.flbetween,.flitem{display:flex;align-items:center}.flbetween,.flbetween_item{justify-content:space-between}.flbetween_item{display:flex}.flcenter{align-items:center}.flcenter,.flcenter_item{display:flex;justify-content:center}.flaround{align-items:center}.flaround,.flaround_item{display:flex;justify-content:space-around}.flleft{justify-content:left}.flleft,.flright{display:flex;align-items:center}.flright{justify-content:right}.flevenly{display:flex;justify-content:space-evenly;align-items:center}.flwarp_around{justify-content:space-around}.flwarp_around,.flwarpcenter{display:flex;flex-wrap:wrap;align-items:center}.flwarpcenter{justify-content:center}.flwarpcenter_item{display:flex;justify-content:center;flex-wrap:wrap}.flwarpbetween{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center}.margintop_10{margin-top:10px}.margintop_20{margin-top:20px}.margintop_30{margin-top:30px}.margintop_40{margin-top:40px}.marginTB10{margin:10px 0}.marginTB15{margin:15px 0}.marginTB20{margin:20px 0}.margin_20{margin:20px auto}.margin_30{margin:30px auto}.margin_60{margin:60px auto}.marginTB30{margin:30px 0}.padding_10{padding:10px}.padding_20{padding:20px}.paddingLR10{padding:0 10px}.paddingLR20{padding:0 20px}.fontWeight_normal{font-weight:400}.white_box{background-color:#fff;border-radius:16px;padding:20px}.text-cut{text-overflow:ellipsis;white-space:nowrap;overflow:hidden}.text-cut2{-webkit-line-clamp:2}.text-cut2,.text-cut3{overflow:hidden;display:-webkit-box;-webkit-box-orient:vertical;word-break:break-all;text-overflow:ellipsis}.text-cut3{-webkit-line-clamp:3}.text-cut5{-webkit-line-clamp:5}.text-cut5,.text-cut7{overflow:hidden;display:-webkit-box;-webkit-box-orient:vertical;word-break:break-all;text-overflow:ellipsis}.text-cut7{-webkit-line-clamp:7}.text-cut8{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:8}.text-cut8,.text-cutNULL{overflow:hidden;word-break:break-all;text-overflow:ellipsis}.overHidden{overflow:hidden}.textCenter{text-align:center}.textLeft{text-align:left}", ""]),
             a["default"] = l
         },
         9632: function(e, a, t) {
@@ -45,7 +45,7 @@
             r.push([e.id, ".bottomBox_web[data-v-6ead3ed4]{position:relative;height:480px}.bottomBox_web .cat[data-v-6ead3ed4]{position:absolute;top:-142px;left:10px}.bottomBox_web .miners[data-v-6ead3ed4]{position:absolute;top:-147px;right:50px}.bottomBox_web .bottom[data-v-6ead3ed4]{width:100%;height:800px;background-color:#30047f;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/bottom_bg.png);background-size:cover;background-repeat:no-repeat;position:absolute;bottom:0;left:0;color:#fff;padding-top:350px}.bottomBox_web .bottom .bottom_title[data-v-6ead3ed4]{font-size:50px}.bottomBox_web .bottom .bottom_content[data-v-6ead3ed4]{font-size:30px}.bottomBox_web .bottom .downGame[data-v-6ead3ed4]{width:50%;margin:30px auto}.bottomBox_web .bottom .downGame div[data-v-6ead3ed4]{width:22%;height:80px;line-height:68px;color:#33344d;font-size:22px;padding-left:2.1%;cursor:pointer}.bottomBox_web .bottom .downGame .webGame[data-v-6ead3ed4]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/web_bg.png);background-size:100% 80%;background-repeat:no-repeat}.bottomBox_web .bottom .downGame .webGame[data-v-6ead3ed4]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/web_hover.png);background-size:100% 80%;background-repeat:no-repeat}.bottomBox_web .bottom .downGame .androidGame[data-v-6ead3ed4]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/android_bg.png);background-size:100% 80%;background-repeat:no-repeat}.bottomBox_web .bottom .downGame .androidGame[data-v-6ead3ed4]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/android_hover.png);background-size:100% 80%;background-repeat:no-repeat}.bottomBox_web .bottom .downGame .iosGame[data-v-6ead3ed4]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/ios_bg.png);background-size:100% 80%;background-repeat:no-repeat}.bottomBox_web .bottom .downGame .iosGame[data-v-6ead3ed4]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/ios_hover.png);background-size:100% 80%;background-repeat:no-repeat}.bottomBox_web .bottom .download[data-v-6ead3ed4]{width:136px;height:136px;padding:6px 5px;margin:auto;background-color:#fff}.bottomBox_mobile[data-v-6ead3ed4]{position:relative}.bottomBox_mobile .bottom[data-v-6ead3ed4]{width:100%;height:380px;background-color:#30047f;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/mobile/bottom_bg_mobile.png);background-size:cover;background-repeat:no-repeat;position:absolute;bottom:0;left:0;color:#fff;padding:120px 0 40px 0}.bottomBox_mobile .bottom .bottom_title[data-v-6ead3ed4]{font-size:30px}.bottomBox_mobile .bottom .bottom_content[data-v-6ead3ed4]{font-size:15px}.bottomBox_mobile .bottom .downGame div[data-v-6ead3ed4]{width:50%;height:80px;line-height:65px;color:#33344d;font-size:22px;padding-left:5%;cursor:pointer}.bottomBox_mobile .bottom .downGame .webGame[data-v-6ead3ed4]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/web_bg.png);background-size:100% 80%;background-repeat:no-repeat}.bottomBox_mobile .bottom .downGame .androidGame[data-v-6ead3ed4]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/android_bg.png);background-size:100% 80%;background-repeat:no-repeat}.bottomBox_mobile .bottom .downGame .iosGame[data-v-6ead3ed4]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/ios_bg.png);background-size:100% 80%;background-repeat:no-repeat}.bottomBox_mobile .bottom .download[data-v-6ead3ed4]{width:136px;height:136px;padding:6px 5px;margin:auto;background-color:#fff}", ""]),
             a["default"] = r
         },
-        5441: function(e, a, t) {
+        5326: function(e, a, t) {
             "use strict";
             t.r(a);
             var i = t(8081)
@@ -53,10 +53,10 @@
               , n = t(3645)
               , s = t.n(n)
               , r = s()(o());
-            r.push([e.id, ".header_web[data-v-61ba947b]{width:100%;position:relative;font-family:mini;font-size:20px;z-index:10}.header_web .navbar[data-v-61ba947b]{height:50px;padding:0 20px;background-color:#fff;border-top-left-radius:30px;border-bottom-left-radius:30px;position:fixed;top:40px;right:0;box-shadow:0 0 8px 0 rgba(0,0,0,.5)}.header_web .navbar .titleBox[data-v-61ba947b]{line-height:50px}.header_web .navbar .headerTitle[data-v-61ba947b]{color:#33344d;cursor:pointer;margin:0 10px}.header_web .navbar .headerTitle[data-v-61ba947b]:hover{color:#f74da5}.header_web .navbar .headerTitleChoose[data-v-61ba947b]{color:#f74da5;cursor:pointer;margin:0 10px}.header_web .navbar .outImg[data-v-61ba947b]{width:180px;position:relative}.header_web .navbar .outImg div[data-v-61ba947b]{width:35px;height:35px;background-size:cover!important;background-repeat:no-repeat!important;cursor:pointer}.header_web .navbar .outImg div[data-v-61ba947b]:hover{transform:scale(1.1)}.header_web .navbar .playNow[data-v-61ba947b]{min-width:220px;height:75px;padding-top:10px;line-height:25px;position:fixed;top:28px;right:-40px;cursor:pointer}.header_mobile[data-v-61ba947b]{width:100%;position:relative;font-family:mini;font-size:20px;z-index:10}.header_mobile .navbar[data-v-61ba947b]{padding:0 20px;height:45px;background-color:#fff;border-top-left-radius:30px;border-bottom-left-radius:30px;position:fixed;top:40px;right:0;box-shadow:0 0 8px 0 rgba(0,0,0,.5)}.header_mobile .navbar .navIcon[data-v-61ba947b]{font-size:40px;color:#f74da5}.header_mobile .navbar div[data-v-61ba947b]{width:40px;height:40px;background-size:cover!important;background-repeat:no-repeat!important}.header_mobile .closee[data-v-61ba947b]{width:50px;height:50px;border-radius:50%;line-height:50px;background-color:#fff;font-size:30px;font-weight:700;color:#f74da5;margin-top:20px;margin-left:70%}.header_mobile .mobile_logo[data-v-61ba947b]{width:150px;margin:40px auto 30px}.header_mobile .titleBox[data-v-61ba947b]{font-size:25px}.header_mobile .titleBox .headerTitle[data-v-61ba947b]{margin:30px 0}.header_mobile .titleBox .headerTitleChoose[data-v-61ba947b]{color:#f74da5;margin:30px 0}.header_mobile .titleBox .playNow[data-v-61ba947b]{width:80%;height:70px;padding-top:10px;line-height:25px;margin:auto;font-size:20px}.login_box[data-v-61ba947b]{min-width:380px}.login_box .login_box_web[data-v-61ba947b]{color:#fff;font-size:25px;position:relative}.login_box .login_box_web .guanbi[data-v-61ba947b]{width:40px;height:40px;margin-left:92%;margin-top:-10px;line-height:40px;border-radius:50%;background-color:#fff;font-size:30px;font-weight:700;color:#f74da5;cursor:pointer}.login_box .login_box_web .login_phone[data-v-61ba947b]{min-width:40%;max-width:40%;font-size:24px;text-align:right}.login_box .login_box_web .code[data-v-61ba947b]{width:60%;height:45px;background-color:#fff;color:#000;margin:20px 0 20px 10px;border-radius:30px!important}.login_box .login_box_web .code .send_code[data-v-61ba947b]{min-width:120px;padding:0 5px;height:41px;line-height:40px;border-radius:30px;background-color:#f74da5;color:#fff;font-size:12px;cursor:pointer;text-align:center;margin-right:5px}.login_box .login_box_web .code .send_code[data-v-61ba947b]:hover{background-color:#49afdd;transform:scale(1.1);box-shadow:0 0 8px 0 rgba(0,0,0,.5)}.login_box .login_box_web .login_btn[data-v-61ba947b]{width:240px;padding:0 10px;margin:auto;height:75px;font-size:22px;border-radius:30px;line-height:75px;cursor:pointer}.login_box .login_box_web .zhuce[data-v-61ba947b]{margin-top:20px}.login_box .login_box_web .zhuce div[data-v-61ba947b]{width:70px;height:65px;cursor:pointer;background-size:cover;background-repeat:no-repeat}.login_box .login_box_mobile[data-v-61ba947b]{color:#fff;font-size:20px;position:relative}.login_box .login_box_mobile .guanbi[data-v-61ba947b]{width:35px;height:35px;line-height:38px;border-radius:50%;margin-left:90%;margin-top:-30px;background-color:#fff;font-size:30px;font-weight:700;color:#f74da5}.login_box .login_box_mobile .code[data-v-61ba947b]{color:#33344d;margin:20px auto}.login_box .login_box_mobile .code .send_code[data-v-61ba947b]{width:200px;height:45px;margin-left:10px;line-height:40px;background-color:#f74da5;border-radius:30px;font-size:12px;cursor:pointer;color:#fff}.login_box .login_box_mobile .login_btn[data-v-61ba947b]{width:220px;margin:auto;height:70px;font-size:22px;border-radius:30px;line-height:70px;color:#fff}.login_box .login_box_mobile .zhuce[data-v-61ba947b]{margin-top:20px}.login_box .login_box_mobile .zhuce img[data-v-61ba947b]{width:55px}.google[data-v-61ba947b]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/google1.png)}.google[data-v-61ba947b]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/google2.png)}.line[data-v-61ba947b]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/line1.png)}.line[data-v-61ba947b]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/line2.png)}.tiwtter[data-v-61ba947b]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/tiwtter1.png)}.tiwtter[data-v-61ba947b]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/tiwtter2.png)}.telegram[data-v-61ba947b]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/telegram1.png)}.telegram[data-v-61ba947b]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/telegram2.png)}.metaMask[data-v-61ba947b]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/metaMask1.png)}.metaMask[data-v-61ba947b]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/metaMask2.png)}.facebook[data-v-61ba947b]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/facebook1.png)}.facebook[data-v-61ba947b]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/facebook2.png)}.lang[data-v-61ba947b]{margin-left:2px;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/lang1.png);position:relative}.lang[data-v-61ba947b]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/lang2.png)}.lang_change[data-v-61ba947b]{position:absolute;top:50px;left:63%}.lang_change p[data-v-61ba947b]{padding:5px;margin:5px auto;height:45%;line-height:40px;background-color:#f74da5;border-radius:5px;cursor:pointer}.lang_change p[data-v-61ba947b]:hover{transform:scale(1.1)}", ""]),
+            r.push([e.id, ".header_web[data-v-49a9e57d]{width:100%;position:relative;font-family:mini;font-size:20px;z-index:10}.header_web .navbar[data-v-49a9e57d]{height:50px;padding:0 20px;background-color:#fff;border-top-left-radius:30px;border-bottom-left-radius:30px;position:fixed;top:40px;right:0;box-shadow:0 0 8px 0 rgba(0,0,0,.5)}.header_web .navbar .titleBox[data-v-49a9e57d]{line-height:50px}.header_web .navbar .headerTitle[data-v-49a9e57d]{color:#33344d;cursor:pointer;margin:0 10px}.header_web .navbar .headerTitle[data-v-49a9e57d]:hover{color:#f74da5}.header_web .navbar .headerTitleChoose[data-v-49a9e57d]{color:#f74da5;cursor:pointer;margin:0 10px}.header_web .navbar .outImg[data-v-49a9e57d]{width:180px;position:relative}.header_web .navbar .outImg div[data-v-49a9e57d]{width:35px;height:35px;background-size:cover!important;background-repeat:no-repeat!important;cursor:pointer}.header_web .navbar .outImg div[data-v-49a9e57d]:hover{transform:scale(1.1)}.header_web .navbar .playNow[data-v-49a9e57d]{min-width:220px;height:75px;padding-top:10px;line-height:25px;position:fixed;top:28px;right:-40px;cursor:pointer}.header_mobile[data-v-49a9e57d]{width:100%;position:relative;font-family:mini;font-size:20px;z-index:10}.header_mobile .navbar[data-v-49a9e57d]{padding:0 20px;height:45px;background-color:#fff;border-top-left-radius:30px;border-bottom-left-radius:30px;position:fixed;top:40px;right:0;box-shadow:0 0 8px 0 rgba(0,0,0,.5)}.header_mobile .navbar .navIcon[data-v-49a9e57d]{font-size:40px;color:#f74da5}.header_mobile .navbar div[data-v-49a9e57d]{width:40px;height:40px;background-size:cover!important;background-repeat:no-repeat!important}.header_mobile .closee[data-v-49a9e57d]{width:50px;height:50px;border-radius:50%;line-height:50px;background-color:#fff;font-size:30px;font-weight:700;color:#f74da5;margin-top:20px;margin-left:70%}.header_mobile .mobile_logo[data-v-49a9e57d]{width:150px;margin:40px auto 30px}.header_mobile .titleBox[data-v-49a9e57d]{font-size:25px}.header_mobile .titleBox .headerTitle[data-v-49a9e57d]{margin:30px 0}.header_mobile .titleBox .headerTitleChoose[data-v-49a9e57d]{color:#f74da5;margin:30px 0}.header_mobile .titleBox .playNow[data-v-49a9e57d]{width:80%;height:70px;padding-top:10px;line-height:25px;margin:auto;font-size:20px}.login_box[data-v-49a9e57d]{min-width:380px}.login_box .login_box_web[data-v-49a9e57d]{color:#fff;font-size:25px;position:relative}.login_box .login_box_web .guanbi[data-v-49a9e57d]{width:40px;height:40px;margin-left:92%;margin-top:-10px;line-height:40px;border-radius:50%;background-color:#fff;font-size:30px;font-weight:700;color:#f74da5;cursor:pointer}.login_box .login_box_web .login_phone[data-v-49a9e57d]{min-width:40%;max-width:40%;font-size:24px;text-align:right}.login_box .login_box_web .code[data-v-49a9e57d]{width:60%;height:45px;background-color:#fff;color:#000;margin:20px 0 20px 10px;border-radius:30px!important}.login_box .login_box_web .code .send_code[data-v-49a9e57d]{min-width:120px;padding:0 5px;height:41px;line-height:40px;border-radius:30px;background-color:#f74da5;color:#fff;font-size:12px;cursor:pointer;text-align:center;margin-right:5px}.login_box .login_box_web .code .send_code[data-v-49a9e57d]:hover{background-color:#49afdd;transform:scale(1.1);box-shadow:0 0 8px 0 rgba(0,0,0,.5)}.login_box .login_box_web .login_btn[data-v-49a9e57d]{width:240px;padding:0 10px;margin:auto;height:75px;font-size:22px;border-radius:30px;line-height:75px;cursor:pointer}.login_box .login_box_web .zhuce[data-v-49a9e57d]{margin-top:20px}.login_box .login_box_web .zhuce div[data-v-49a9e57d]{width:70px;height:65px;cursor:pointer;background-size:cover;background-repeat:no-repeat}.login_box .login_box_mobile[data-v-49a9e57d]{color:#fff;font-size:20px;position:relative}.login_box .login_box_mobile .guanbi[data-v-49a9e57d]{width:35px;height:35px;line-height:38px;border-radius:50%;margin-left:90%;margin-top:-30px;background-color:#fff;font-size:30px;font-weight:700;color:#f74da5}.login_box .login_box_mobile .code[data-v-49a9e57d]{color:#33344d;margin:20px auto}.login_box .login_box_mobile .code .send_code[data-v-49a9e57d]{width:200px;height:45px;margin-left:10px;line-height:40px;background-color:#f74da5;border-radius:30px;font-size:12px;cursor:pointer;color:#fff}.login_box .login_box_mobile .login_btn[data-v-49a9e57d]{width:220px;margin:auto;height:70px;font-size:22px;border-radius:30px;line-height:70px;color:#fff}.login_box .login_box_mobile .zhuce[data-v-49a9e57d]{margin-top:20px}.login_box .login_box_mobile .zhuce img[data-v-49a9e57d]{width:55px}.google[data-v-49a9e57d]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/google1.png)}.google[data-v-49a9e57d]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/google2.png)}.line[data-v-49a9e57d]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/line1.png)}.line[data-v-49a9e57d]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/line2.png)}.tiwtter[data-v-49a9e57d]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/tiwtter1.png)}.tiwtter[data-v-49a9e57d]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/tiwtter2.png)}.telegram[data-v-49a9e57d]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/telegram1.png)}.telegram[data-v-49a9e57d]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/telegram2.png)}.metaMask[data-v-49a9e57d]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/metaMask1.png)}.metaMask[data-v-49a9e57d]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/metaMask2.png)}.facebook[data-v-49a9e57d]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/facebook1.png)}.facebook[data-v-49a9e57d]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/facebook2.png)}.lang[data-v-49a9e57d]{margin-left:2px;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/lang1.png);position:relative}.lang[data-v-49a9e57d]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/icon/lang2.png)}.lang_change[data-v-49a9e57d]{position:absolute;top:50px;left:63%}.lang_change p[data-v-49a9e57d]{padding:5px;margin:5px auto;height:45%;line-height:40px;background-color:#f74da5;border-radius:5px;cursor:pointer}.lang_change p[data-v-49a9e57d]:hover{transform:scale(1.1)}", ""]),
             a["default"] = r
         },
-        4169: function(e, a, t) {
+        7468: function(e, a, t) {
             "use strict";
             t.r(a);
             var i = t(8081)
@@ -64,10 +64,10 @@
               , n = t(3645)
               , s = t.n(n)
               , r = s()(o());
-            r.push([e.id, "[contenteditable=true],input,textarea{-webkit-user-select:auto!important;-moz-user-select:auto!important;-o-user-select:auto!important;user-select:auto!important}.el-input__inner{border-radius:30px!important;background-color:#fff!important;border:none!important;color:#33344d!important;font-size:16px}.el-drawer__header{display:none!important}.el-dialog__header{background-color:#8459fe;border-radius:10px;display:none}.el-dialog,.el-dialog__body{border-radius:20px!important}.el-dialog__body{padding:30px 20px 30px 20px!important;background-color:#8459fe;border:2px solid #fff}.el-loading-mask{border-radius:40px!important}.el-select--medium{vertical-align:bottom!important}.el-select-dropdown__item{text-align:center}.el-drawer{background-color:#8459fe!important}.el-scrollbar .el-scrollbar__bar{opacity:1!important}", ""]),
+            r.push([e.id, "[contenteditable=true],input,textarea{-webkit-user-select:auto!important;-moz-user-select:auto!important;-o-user-select:auto!important;user-select:auto!important}.el-input__inner{border-radius:30px!important;background-color:#fff!important;border:none!important;color:#33344d!important;font-size:16px}.el-drawer__header{display:none!important}.el-dialog__header{background-color:#8459fe;border-radius:10px;display:none}.el-dialog,.el-dialog__body{border-radius:20px!important}.el-dialog__body{padding:30px 20px 30px 20px!important;background-color:#8459fe;border:2px solid #fff}.el-loading-mask{border-radius:40px!important}.el-select--medium{vertical-align:bottom!important}.el-carousel__indicator .el-carousel__button{width:20px;height:20px;border-radius:50%!important}.el-select-dropdown__item{text-align:center}.el-drawer{background-color:#8459fe!important}.el-scrollbar .el-scrollbar__bar{opacity:1!important}", ""]),
             a["default"] = r
         },
-        9029: function(e, a, t) {
+        7136: function(e, a, t) {
             "use strict";
             t.r(a);
             var i = t(8081)
@@ -75,10 +75,10 @@
               , n = t(3645)
               , s = t.n(n)
               , r = s()(o());
-            r.push([e.id, ".game_web[data-v-69125d5a]{width:100%;height:193vh;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/game_bg.jpg);background-size:cover;background-repeat:no-repeat;font-size:20px;overflow:hidden;padding-top:160px;position:relative}.game_web .game_title[data-v-69125d5a]{font-size:35px}.game_web .carousel .carousel_item[data-v-69125d5a]{width:40%;height:500px;background-color:#fff;border-radius:18px}.game_web .carousel .carousel_item img[data-v-69125d5a]{width:100%}.game_web .carousel .carousel_item .carousel_content[data-v-69125d5a]{padding:0 20px;color:#33344d;font-size:15px}.game_web .carousel .carousel_item .carousel_content .carousel_title[data-v-69125d5a]{font-size:20px}.game_web .carousel .indicator[data-v-69125d5a]{margin:30px auto;padding-bottom:40px}.game_web .carousel .indicator .indicator_item[data-v-69125d5a]{width:18px;height:18px;border:2px solid #fff;border-radius:50%;margin:0 10px;cursor:pointer}.game_web .carousel .indicator .indicator_choose[data-v-69125d5a]{background-color:#fff}.game_web .carousel .indicator .direction_img[data-v-69125d5a]{width:40px;height:40px;cursor:pointer;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/right.png);background-size:cover;background-repeat:no-repeat}.game_web .carousel .indicator .direction_img[data-v-69125d5a]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/right_hover.png);background-size:cover;background-repeat:no-repeat}.game_web .new_box[data-v-69125d5a]{width:100%;height:1000px;color:#33344d;font-size:15px}.game_web .new_box .newBack[data-v-69125d5a]{width:100%;height:1000px;background-size:100% 88%!important;background-repeat:no-repeat!important;position:relative}.game_web .new_box .newBack .new_logo[data-v-69125d5a]{width:200px;position:absolute;top:-60px;right:20px}.game_web .new_box .newBack .newContent[data-v-69125d5a]{width:650px;padding:20px;line-height:20px;position:absolute;top:150px;right:-10px;background-color:#fff;color:#33344d}.game_web .new_box .newBack .newContent .new_title[data-v-69125d5a]{font-size:20px}.game_web .new_box .newBack .newContent .newIndicator[data-v-69125d5a]{width:50%}.game_web .new_box .newBack .newContent .newIndicator .indicator_item[data-v-69125d5a]{width:18px;height:18px;background-color:#fdbacb;border-radius:50%;margin:0 10px;cursor:pointer}.game_web .new_box .newBack .newContent .newIndicator .indicator_choose[data-v-69125d5a],.game_web .new_box .newBack .newContent .newIndicator .indicator_item[data-v-69125d5a]:hover{background-color:#f65285}.game_web .new_box .newBack .newContent .newIndicator .direction_img[data-v-69125d5a]{width:40px;height:40px;cursor:pointer;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/right.png);background-size:cover;background-repeat:no-repeat}.game_web .new_box .newBack .newContent .newIndicator .direction_img[data-v-69125d5a]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/right_hover.png);background-size:cover;background-repeat:no-repeat}.game_mobile[data-v-69125d5a]{width:100%;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/game_bg.jpg);background-size:cover;background-repeat:no-repeat;font-size:20px;overflow:hidden;padding:160px 0 200px 0;position:relative}.game_mobile .game_title[data-v-69125d5a]{font-size:30px}.game_mobile .carousel[data-v-69125d5a]{width:95%;margin:auto}.game_mobile .carousel .carousel_item[data-v-69125d5a]{width:100%;height:400px;background-color:#fff;border-radius:18px}.game_mobile .carousel .carousel_item img[data-v-69125d5a]{width:100%}.game_mobile .carousel .carousel_item .carousel_content[data-v-69125d5a]{padding:0 20px;color:#33344d;font-size:15px}.game_mobile .carousel .carousel_item .carousel_content .carousel_title[data-v-69125d5a]{font-size:20px}.game_mobile .carousel .indicator[data-v-69125d5a]{padding-bottom:20px}.game_mobile .carousel .indicator .indicator_item[data-v-69125d5a]{width:20px;height:20px;border:2px solid #fff;border-radius:50%;margin:0 10px;cursor:pointer}.game_mobile .carousel .indicator .indicator_choose[data-v-69125d5a]{background-color:#fff}.game_mobile .carousel .indicator .direction_img[data-v-69125d5a]{width:50px;height:50px;cursor:pointer;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/right.png);background-size:cover;background-repeat:no-repeat}.game_mobile .new_box[data-v-69125d5a]{width:95%;margin:auto;color:#33344d;font-size:15px}.game_mobile .new_box .newContent[data-v-69125d5a]{line-height:20px}.game_mobile .new_box .newContent .newContent_item[data-v-69125d5a]{width:100%;height:375px;background-color:#fff;margin:50px 0;padding:20px 0 0 0;border:0}.game_mobile .new_box .newContent .newContent_item img[data-v-69125d5a]{width:100%;margin-top:20px;border-radius:17px}.game_mobile .new_box .newContent .new_title[data-v-69125d5a]{font-size:20px}", ""]),
+            r.push([e.id, ".game_web[data-v-7e1d84f1]{width:100%;height:193vh;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/game_bg.jpg);background-size:cover;background-repeat:no-repeat;font-size:20px;overflow:hidden;padding-top:160px;position:relative}.game_web .game_title[data-v-7e1d84f1]{font-size:35px}.game_web .carousel .carousel_item[data-v-7e1d84f1]{width:40%;height:500px;background-color:#fff;border-radius:18px}.game_web .carousel .carousel_item img[data-v-7e1d84f1]{width:100%}.game_web .carousel .carousel_item .carousel_content[data-v-7e1d84f1]{padding:0 20px;color:#33344d;font-size:15px}.game_web .carousel .carousel_item .carousel_content .carousel_title[data-v-7e1d84f1]{font-size:20px}.game_web .carousel .indicator[data-v-7e1d84f1]{margin:30px auto;padding-bottom:40px}.game_web .carousel .indicator .indicator_item[data-v-7e1d84f1]{width:18px;height:18px;border:2px solid #fff;border-radius:50%;margin:0 10px;cursor:pointer}.game_web .carousel .indicator .indicator_choose[data-v-7e1d84f1]{background-color:#fff}.game_web .carousel .indicator .direction_img[data-v-7e1d84f1]{width:40px;height:40px;cursor:pointer;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/right.png);background-size:cover;background-repeat:no-repeat}.game_web .carousel .indicator .direction_img[data-v-7e1d84f1]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/right_hover.png);background-size:cover;background-repeat:no-repeat}.game_web .new_box[data-v-7e1d84f1]{width:100%;height:1000px;color:#33344d;font-size:15px}.game_web .new_box .newBack[data-v-7e1d84f1]{width:100%;height:1000px;background-size:100% 88%!important;background-repeat:no-repeat!important;position:relative}.game_web .new_box .newBack .new_logo[data-v-7e1d84f1]{width:200px;position:absolute;top:-60px;right:20px}.game_web .new_box .newBack .newContent[data-v-7e1d84f1]{width:650px;padding:20px;line-height:20px;position:absolute;top:150px;right:-10px;background-color:#fff;color:#33344d}.game_web .new_box .newBack .newContent .new_title[data-v-7e1d84f1]{font-size:20px}.game_web .new_box .newBack .newContent .newIndicator[data-v-7e1d84f1]{width:50%}.game_web .new_box .newBack .newContent .newIndicator .indicator_item[data-v-7e1d84f1]{width:18px;height:18px;background-color:#fdbacb;border-radius:50%;margin:0 10px;cursor:pointer}.game_web .new_box .newBack .newContent .newIndicator .indicator_choose[data-v-7e1d84f1],.game_web .new_box .newBack .newContent .newIndicator .indicator_item[data-v-7e1d84f1]:hover{background-color:#f65285}.game_web .new_box .newBack .newContent .newIndicator .direction_img[data-v-7e1d84f1]{width:40px;height:40px;cursor:pointer;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/right.png);background-size:cover;background-repeat:no-repeat}.game_web .new_box .newBack .newContent .newIndicator .direction_img[data-v-7e1d84f1]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/right_hover.png);background-size:cover;background-repeat:no-repeat}.game_mobile[data-v-7e1d84f1]{width:100%;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/game_bg.jpg);background-size:cover;background-repeat:no-repeat;font-size:20px;overflow:hidden;padding:160px 0 200px 0;position:relative}.game_mobile .game_title[data-v-7e1d84f1]{font-size:30px}.game_mobile .carousel[data-v-7e1d84f1]{width:95%;margin:auto}.game_mobile .carousel .carousel_item[data-v-7e1d84f1]{width:100%;height:400px;background-color:#fff;border-radius:18px}.game_mobile .carousel .carousel_item img[data-v-7e1d84f1]{width:100%}.game_mobile .carousel .carousel_item .carousel_content[data-v-7e1d84f1]{padding:0 20px;color:#33344d;font-size:15px}.game_mobile .carousel .carousel_item .carousel_content .carousel_title[data-v-7e1d84f1]{font-size:20px}.game_mobile .carousel .indicator[data-v-7e1d84f1]{padding-bottom:20px}.game_mobile .carousel .indicator .indicator_item[data-v-7e1d84f1]{width:20px;height:20px;border:2px solid #fff;border-radius:50%;margin:0 10px;cursor:pointer}.game_mobile .carousel .indicator .indicator_choose[data-v-7e1d84f1]{background-color:#fff}.game_mobile .carousel .indicator .direction_img[data-v-7e1d84f1]{width:50px;height:50px;cursor:pointer;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/right.png);background-size:cover;background-repeat:no-repeat}.game_mobile .new_box[data-v-7e1d84f1]{width:95%;margin:auto;color:#33344d;font-size:15px}.game_mobile .new_box .newContent[data-v-7e1d84f1]{line-height:20px}.game_mobile .new_box .newContent .newContent_item[data-v-7e1d84f1]{width:100%;height:375px;background-color:#fff;margin:50px 0;padding:20px 0 0 0;border:0}.game_mobile .new_box .newContent .newContent_item img[data-v-7e1d84f1]{width:100%;margin-top:20px;border-radius:17px}.game_mobile .new_box .newContent .new_title[data-v-7e1d84f1]{font-size:20px}", ""]),
             a["default"] = r
         },
-        5799: function(e, a, t) {
+        4034: function(e, a, t) {
             "use strict";
             t.r(a);
             var i = t(8081)
@@ -86,10 +86,10 @@
               , n = t(3645)
               , s = t.n(n)
               , r = s()(o());
-            r.push([e.id, ".home_web[data-v-62cb1345]{width:100%;height:380vh;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/home_bg.jpg);background-size:cover;background-repeat:no-repeat;font-size:20px;overflow:hidden;position:relative}.home_web .pinkColor[data-v-62cb1345]{padding:0 20px;color:#f2246f;font-size:20px}.home_web .animationStart[data-v-62cb1345]{animation:imgSc-62cb1345 1.5s linear .2s}.home_web .content_bg[data-v-62cb1345]{width:100%;height:100vh}.home_web .content_bg .logoImg[data-v-62cb1345]{width:100%;padding-top:100px}.home_web .content_bg .logoImg .contentLogo[data-v-62cb1345]{width:50%;height:80vh;animation:imgSc-62cb1345 1.2s linear .2s}.home_web .content_bg .btnBox[data-v-62cb1345]{margin-top:-60px;animation:imgSc-62cb1345 .8s linear .2s}.home_web .content_bg .btnBox .playGame[data-v-62cb1345]{min-width:240px;padding:0 20px;height:60px;line-height:25px;margin:0 20px;color:#f74da5;background-color:#fff;border-radius:30px}.home_web .content_activity[data-v-62cb1345]{width:100%}.home_web .content_activity .activity[data-v-62cb1345]{width:400px;height:500px;background-color:#fff;border:none;border-radius:17px;color:#f74da5;margin:5px 15px}.home_web .content_activity .activity img[data-v-62cb1345]{width:100%;height:60%}.home_web .content_deal[data-v-62cb1345]{width:80%;height:110px;overflow:hidden;background-color:#8459fe;font-size:17px}.home_web .content_deal .horn[data-v-62cb1345]{width:75px;margin:0 10px}.home_web .content_deal .deal[data-v-62cb1345]{margin:10px}.home_web .content_market[data-v-62cb1345]{height:810px;background-color:#f5f6fa;color:#33344d}.home_web .content_market .sellIcon[data-v-62cb1345]{width:50px;margin-left:20px}.home_web .content_market .currency[data-v-62cb1345]{width:180px;height:35px;margin:0 20px;border-radius:30px;line-height:35px;background-color:#fff}.home_web .content_market .currency img[data-v-62cb1345]{width:35px;margin-right:10%}.home_web .content_market .sellOut[data-v-62cb1345]{width:180px;height:65px}.home_web .content_market .btnLine div[data-v-62cb1345]{width:180px;height:60px;margin:10px 0}.home_web .content_market .btnLine .line_k[data-v-62cb1345]{width:130px;height:30px;margin:10px auto;color:red;font-size:16px}.home_web .content_market .btnLine .line_k img[data-v-62cb1345]{width:100px;margin-right:10px}.home_web .content_market .prop_type[data-v-62cb1345]{height:120px;position:relative;overflow:hidden;margin-top:30px}.home_web .content_market .prop_type .prop_item[data-v-62cb1345]{width:100px;height:120px;line-height:50px;margin-right:10px;cursor:pointer;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/prop_bg.png);background-size:100% 77.5%;background-repeat:no-repeat;border-radius:50%;color:red}.home_web .content_market .prop_type .prop_item img[data-v-62cb1345]{width:65px;height:65px;border-radius:50%;margin-top:15px}.home_web .content_market .prop_type .prop_item[data-v-62cb1345]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/prop_hover.png);background-size:100% 77.5%;background-repeat:no-repeat;transform:scale(1.1)}.home_web .content_market .prop_type .propChoose[data-v-62cb1345]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/prop_choose.png);background-size:100% 77.5%;background-repeat:no-repeat}.home_web .introduction_game[data-v-62cb1345]{width:100%;height:500px;position:relative}.home_web .introduction_game .iconOne[data-v-62cb1345]{width:150px;height:150px;margin-top:-120px;margin-right:100px;position:absolute;top:0;right:150px}.home_web .introduction_game .introduction_title[data-v-62cb1345]{font-size:55px;color:#fff}.home_web .introduction_game .introduction_info[data-v-62cb1345]{margin-top:50px}.home_web .introduction_game .introduction_info div[data-v-62cb1345]{min-width:20%;padding:0 20px;height:60px;background-color:#fff;border-radius:30px;font-size:18px;line-height:25px;padding-top:5px;color:#78798d}.home_web .introduction_game .market_deal[data-v-62cb1345]{height:520px;border-radius:20px;background-color:#fff;display:flex;border:none;color:#78798d}.home_web .introduction_game .market_deal img[data-v-62cb1345]{width:70%;height:100%}.home_web .introduction_game .market_deal .deal_text[data-v-62cb1345]{width:30%;padding:40px;position:relative;text-align:left;line-height:35px}.home_web .introduction_game .market_deal .deal_text img[data-v-62cb1345]{width:20px;margin:0 20px 0 60px}.home_web .introduction_game .market_deal .deal_text .deal_title[data-v-62cb1345]{font-size:25px;color:#33344d;text-align:center;margin-bottom:10px}.home_web .introduction_game .market_deal .zhDeal[data-v-62cb1345]{line-height:60px}.home_web .introduction_game .market_deal .manor[data-v-62cb1345]{width:280px;height:80px;line-height:78px;margin:40px auto 300px;font-size:21px;text-align:center}.home_web .introduction_game .market_deal .inDeal[data-v-62cb1345]{width:280px;height:80px;line-height:20px;padding:20px 0;margin:40px auto 300px;font-size:18px;text-align:center}.home_web .downGame div[data-v-62cb1345]{width:150px;height:60px;line-height:50px;color:#33344d;font-size:18px;cursor:pointer;padding-left:15px}.home_web .downGame .webGame[data-v-62cb1345]{position:absolute;top:120px;right:-22px;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/web_bg.png);background-size:100% 80%;background-repeat:no-repeat}.home_web .downGame .webGame[data-v-62cb1345]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/web_hover.png);background-size:100% 80%;background-repeat:no-repeat}.home_web .downGame .androidGame[data-v-62cb1345]{position:absolute;top:180px;right:-22px;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/android_bg.png);background-size:100% 80%;background-repeat:no-repeat}.home_web .downGame .androidGame[data-v-62cb1345]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/android_hover.png);background-size:100% 80%;background-repeat:no-repeat}.home_web .downGame .iosGame[data-v-62cb1345]{position:absolute;top:240px;right:-22px;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/ios_bg.png);background-size:100% 80%;background-repeat:no-repeat}.home_web .downGame .iosGame[data-v-62cb1345]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/ios_hover.png);background-size:100% 80%;background-repeat:no-repeat}.home_web .downQr[data-v-62cb1345]{width:110px;height:108px;padding:4px 5px;border:2px solid #fff;background-color:#fff;border-radius:10px;position:absolute;top:300px;right:-3px}.home_mobile[data-v-62cb1345]{width:100%;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/mobile/home_bg_mobile.jpg);background-size:cover;background-repeat:no-repeat;font-size:20px}.home_mobile .pinkColor[data-v-62cb1345]{color:#f2246f;font-size:20px;padding:0 10px}.home_mobile .animationStart[data-v-62cb1345]{animation:animation-62cb1345 1.5s linear .2s}@keyframes animation-62cb1345{to{-webkit-transform:translateY(0) scale(1);opacity:1}40%{-webkit-transform:translateY(-5px) scale(1)}0%{-webkit-transform:translateY(5px) scale(0)}}.home_mobile .content_bg[data-v-62cb1345]{height:470px;position:relative}.home_mobile .content_bg .contentLogo[data-v-62cb1345]{width:100%;position:absolute;top:100px;left:5%;animation:imgSc-62cb1345 1.2s linear .2s}@keyframes imgSc-62cb1345{to{-webkit-transform:translateY(0) scale(1)}40%{-webkit-transform:translateY(-15px) scale(1)}0%{-webkit-transform:translateY(5px) scale(0)}}.home_mobile .content_bg .contentLogo_height[data-v-62cb1345]{width:100%;height:350px}.home_mobile .content_bg .btnBox[data-v-62cb1345]{animation-name:my;animation:imgSc-62cb1345 .8s linear .2s}.home_mobile .content_bg .btnBox .playGame[data-v-62cb1345]{width:200px;height:75px;line-height:80px}.home_mobile .content_activity[data-v-62cb1345]{width:100%;height:420px;overflow:hidden}.home_mobile .content_activity .activity[data-v-62cb1345]{width:300px;height:390px;padding:0 0 20px 0;overflow:hidden;background-color:#fff;border:none;border-radius:17px;color:#f74da5;margin:10px}.home_mobile .content_activity .activity img[data-v-62cb1345]{width:100%;height:60%}.home_mobile .content_deal[data-v-62cb1345]{width:100%;height:110px;overflow:hidden;background-color:#8459fe;font-size:16px}.home_mobile .content_deal .horn[data-v-62cb1345]{width:55px;margin:0 10px}.home_mobile .content_deal .deal[data-v-62cb1345]{margin:15px 5px}.home_mobile .content_market[data-v-62cb1345]{background-color:#f5f6fa;color:#33344d}.home_mobile .content_market .sellIcon[data-v-62cb1345]{width:40px;margin-left:10px}.home_mobile .content_market .currency[data-v-62cb1345]{width:35%;height:35px;margin:0 10px;border-radius:30px;line-height:35px;background-color:#fff}.home_mobile .content_market .currency img[data-v-62cb1345]{width:30px;margin-right:10%}.home_mobile .content_market .sellOut[data-v-62cb1345]{padding:0 20px;height:55px;line-height:55px}.home_mobile .content_market .btnLine div[data-v-62cb1345]{width:50%;height:55px}.home_mobile .content_market .line_k[data-v-62cb1345]{height:30px;margin:10px;font-size:16px}.home_mobile .content_market .line_k img[data-v-62cb1345]{width:100px;margin-right:10px}.home_mobile .content_market .prop_type[data-v-62cb1345]{height:120px;position:relative;overflow:hidden;margin-top:30px}.home_mobile .content_market .prop_type .prop_item[data-v-62cb1345]{width:80px;line-height:50px;margin-right:10px;color:red}.home_mobile .content_market .prop_type .prop_item img[data-v-62cb1345]{width:55px;height:55px;border-radius:50%;margin-top:15px}.home_mobile .content_market .prop_type .prop_img[data-v-62cb1345]{width:100%;height:80px;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/prop_bg.png);background-size:100% 100%;background-repeat:no-repeat}.home_mobile .content_market .prop_type .propChoose[data-v-62cb1345]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/prop_choose.png);background-size:100% 100%;background-repeat:no-repeat}.home_mobile .introduction_game[data-v-62cb1345]{width:100%;position:relative}.home_mobile .introduction_game .iconOne[data-v-62cb1345]{width:85px;height:100px;position:absolute;top:-50px;right:10px}.home_mobile .introduction_game .iconOne img[data-v-62cb1345]{width:100%;height:100%}.home_mobile .introduction_game .introduction_title[data-v-62cb1345]{font-size:20px;color:#fff;padding-top:50px}.home_mobile .introduction_game .introduction_info[data-v-62cb1345]{margin-top:40px}.home_mobile .introduction_game .introduction_info div[data-v-62cb1345]{width:30%;height:50px;padding-top:5px;background-color:#fff;line-height:20px;border-radius:30px;font-size:14px;color:#78798d}.home_mobile .introduction_game .market_deal[data-v-62cb1345]{width:100%;height:630px;background-color:#fff;border:none;border-radius:0;color:#78798d}.home_mobile .introduction_game .market_deal img[data-v-62cb1345]{width:100%;height:32%}.home_mobile .introduction_game .market_deal .deal_text[data-v-62cb1345]{width:100%;line-height:28px;font-size:13px}.home_mobile .introduction_game .market_deal .deal_text img[data-v-62cb1345]{width:20px;margin:0 10px 0 0}.home_mobile .introduction_game .market_deal .deal_text .deal_title[data-v-62cb1345]{font-size:20px;color:#33344d;margin-top:30px}.home_mobile .introduction_game .market_deal .manor[data-v-62cb1345]{width:260px;height:80px;line-height:78px;margin:20px 0 300px 60px;font-size:21px}", ""]),
+            r.push([e.id, ".home_web[data-v-ef549078]{width:100%;height:380vh;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/home_bg.jpg);background-size:cover;background-repeat:no-repeat;font-size:20px;overflow:hidden;position:relative}.home_web .pinkColor[data-v-ef549078]{padding:0 20px;color:#f2246f;font-size:20px}.home_web .animationStart[data-v-ef549078]{animation:imgSc-ef549078 1.5s linear .2s}.home_web .content_bg[data-v-ef549078]{width:100%;height:100vh}.home_web .content_bg .logoImg[data-v-ef549078]{width:100%;padding-top:100px}.home_web .content_bg .logoImg .contentLogo[data-v-ef549078]{width:50%;height:75vh;animation:imgSc-ef549078 1.2s linear .2s}.home_web .content_bg .btnBox[data-v-ef549078]{animation:imgSc-ef549078 .8s linear .2s;padding-top:2%;z-index:1000}.home_web .content_bg .btnBox .playGame[data-v-ef549078]{min-width:240px;padding:0 20px;height:60px;line-height:25px;margin:0 20px;color:#f74da5;background-color:#fff;border-radius:30px}.home_web .content_activity[data-v-ef549078]{width:100%}.home_web .content_activity .activity[data-v-ef549078]{width:400px;height:500px;background-color:#fff;border:none;border-radius:17px;color:#f74da5;margin:5px 15px}.home_web .content_activity .activity img[data-v-ef549078]{width:100%;height:60%}.home_web .content_deal[data-v-ef549078]{width:80%;height:110px;overflow:hidden;background-color:#8459fe;font-size:17px}.home_web .content_deal .horn[data-v-ef549078]{width:75px;margin:0 10px}.home_web .content_deal .deal[data-v-ef549078]{margin:10px}.home_web .content_market[data-v-ef549078]{height:810px;background-color:#f5f6fa;color:#33344d}.home_web .content_market .sellIcon[data-v-ef549078]{width:50px;margin-left:20px}.home_web .content_market .currency[data-v-ef549078]{width:180px;height:35px;margin:0 20px;border-radius:30px;line-height:35px;background-color:#fff}.home_web .content_market .currency img[data-v-ef549078]{width:35px;margin-right:10%}.home_web .content_market .sellOut[data-v-ef549078]{width:180px;height:65px}.home_web .content_market .btnLine div[data-v-ef549078]{width:180px;height:60px;margin:10px 0}.home_web .content_market .btnLine .line_k[data-v-ef549078]{width:130px;height:30px;margin:10px auto;color:red;font-size:16px}.home_web .content_market .btnLine .line_k img[data-v-ef549078]{width:100px;margin-right:10px}.home_web .content_market .prop_type[data-v-ef549078]{height:120px;position:relative;overflow:hidden;margin-top:30px}.home_web .content_market .prop_type .prop_item[data-v-ef549078]{width:100px;height:120px;line-height:50px;margin-right:10px;cursor:pointer;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/prop_bg.png);background-size:100% 77.5%;background-repeat:no-repeat;border-radius:50%;color:red}.home_web .content_market .prop_type .prop_item img[data-v-ef549078]{width:65px;height:65px;border-radius:50%;margin-top:15px}.home_web .content_market .prop_type .prop_item[data-v-ef549078]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/prop_hover.png);background-size:100% 77.5%;background-repeat:no-repeat;transform:scale(1.1)}.home_web .content_market .prop_type .propChoose[data-v-ef549078]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/prop_choose.png);background-size:100% 77.5%;background-repeat:no-repeat}.home_web .introduction_game[data-v-ef549078]{width:100%;height:500px;position:relative}.home_web .introduction_game .iconOne[data-v-ef549078]{width:150px;height:150px;margin-top:-120px;margin-right:100px;position:absolute;top:0;right:150px}.home_web .introduction_game .introduction_title[data-v-ef549078]{font-size:55px;color:#fff}.home_web .introduction_game .introduction_info[data-v-ef549078]{margin-top:50px}.home_web .introduction_game .introduction_info div[data-v-ef549078]{min-width:20%;padding:0 20px;height:60px;background-color:#fff;border-radius:30px;font-size:18px;line-height:25px;padding-top:5px;color:#78798d}.home_web .introduction_game .market_deal[data-v-ef549078]{height:520px;border-radius:20px;background-color:#fff;display:flex;border:none;color:#78798d}.home_web .introduction_game .market_deal img[data-v-ef549078]{width:70%;height:100%}.home_web .introduction_game .market_deal .deal_text[data-v-ef549078]{width:30%;padding:40px;position:relative;text-align:left;line-height:35px}.home_web .introduction_game .market_deal .deal_text img[data-v-ef549078]{width:20px;margin:0 20px 0 60px}.home_web .introduction_game .market_deal .deal_text .deal_title[data-v-ef549078]{font-size:25px;color:#33344d;text-align:center;margin-bottom:10px}.home_web .introduction_game .market_deal .zhDeal[data-v-ef549078]{line-height:60px}.home_web .introduction_game .market_deal .manor[data-v-ef549078]{width:280px;height:80px;line-height:78px;margin:40px auto 300px;font-size:21px;text-align:center}.home_web .introduction_game .market_deal .inDeal[data-v-ef549078]{width:280px;height:80px;line-height:20px;padding:20px 0;margin:40px auto 300px;font-size:18px;text-align:center}.home_web .downGame div[data-v-ef549078]{width:150px;height:60px;line-height:50px;color:#33344d;font-size:18px;cursor:pointer;padding-left:15px}.home_web .downGame .webGame[data-v-ef549078]{position:absolute;top:120px;right:-22px;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/web_bg.png);background-size:100% 80%;background-repeat:no-repeat}.home_web .downGame .webGame[data-v-ef549078]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/web_hover.png);background-size:100% 80%;background-repeat:no-repeat}.home_web .downGame .androidGame[data-v-ef549078]{position:absolute;top:180px;right:-22px;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/android_bg.png);background-size:100% 80%;background-repeat:no-repeat}.home_web .downGame .androidGame[data-v-ef549078]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/android_hover.png);background-size:100% 80%;background-repeat:no-repeat}.home_web .downGame .iosGame[data-v-ef549078]{position:absolute;top:240px;right:-22px;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/ios_bg.png);background-size:100% 80%;background-repeat:no-repeat}.home_web .downGame .iosGame[data-v-ef549078]:hover{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/ios_hover.png);background-size:100% 80%;background-repeat:no-repeat}.home_web .playerVideo[data-v-ef549078]{cursor:pointer;position:absolute;top:420px;right:12px}.home_web .playerVideo img[data-v-ef549078]{width:80px;height:80px}.home_web .playerVideo .playerVideoImg[data-v-ef549078]{overflow:hidden;animation:breathe-ef549078 1s infinite;animation-timing-function:ease-in-out;animation-direction:alternate}.home_web .videoBox[data-v-ef549078]{height:410px;padding-top:12%;position:relative}.home_web .videoPlayer[data-v-ef549078]{height:410px;border-radius:10px;background-color:#8459fe;padding:10px;cursor:pointer}.home_web .downQr[data-v-ef549078]{width:110px;height:108px;padding:4px 5px;border:2px solid #fff;background-color:#fff;border-radius:10px;position:absolute;top:300px;right:-3px}.home_mobile[data-v-ef549078]{width:100%;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/mobile/home_bg_mobile.jpg);background-size:cover;background-repeat:no-repeat;font-size:20px}.home_mobile .pinkColor[data-v-ef549078]{color:#f2246f;font-size:20px;padding:0 10px}.home_mobile .animationStart[data-v-ef549078]{animation:animation-ef549078 1.5s linear .2s}@keyframes animation-ef549078{to{-webkit-transform:translateY(0) scale(1);opacity:1}40%{-webkit-transform:translateY(-5px) scale(1)}0%{-webkit-transform:translateY(5px) scale(0)}}.home_mobile .content_bg[data-v-ef549078]{height:470px;position:relative}.home_mobile .content_bg .contentLogo[data-v-ef549078]{width:100%;position:absolute;top:100px;left:5%;animation:imgSc-ef549078 1.2s linear .2s}@keyframes imgSc-ef549078{to{-webkit-transform:translateY(0) scale(1)}40%{-webkit-transform:translateY(-15px) scale(1)}0%{-webkit-transform:translateY(5px) scale(0)}}.home_mobile .content_bg .contentLogo_height[data-v-ef549078]{width:100%;height:350px}.home_mobile .content_bg .playerVideo[data-v-ef549078]{width:100%;cursor:pointer}.home_mobile .content_bg .playerVideo img[data-v-ef549078]{width:60px;height:60px;overflow:hidden;animation:breathe-ef549078 1s infinite;animation-timing-function:ease-in-out;animation-direction:alternate;position:absolute;top:100px;right:12px}@keyframes breathe-ef549078{0%{opacity:.6;transform:scale(.7)}to{opacity:1;transform:scale(1)}}.home_mobile .content_bg .btnBox[data-v-ef549078]{animation-name:my;animation:imgSc-ef549078 .8s linear .2s}.home_mobile .content_bg .btnBox .playGame[data-v-ef549078]{width:200px;height:75px;line-height:80px}.home_mobile .content_activity[data-v-ef549078]{width:100%;height:420px;overflow:hidden}.home_mobile .content_activity .activity[data-v-ef549078]{width:300px;height:390px;padding:0 0 20px 0;overflow:hidden;background-color:#fff;border:none;border-radius:17px;color:#f74da5;margin:10px}.home_mobile .content_activity .activity img[data-v-ef549078]{width:100%;height:60%}.home_mobile .content_deal[data-v-ef549078]{width:100%;height:110px;overflow:hidden;background-color:#8459fe;font-size:16px}.home_mobile .content_deal .horn[data-v-ef549078]{width:55px;margin:0 10px}.home_mobile .content_deal .deal[data-v-ef549078]{margin:15px 5px}.home_mobile .content_market[data-v-ef549078]{background-color:#f5f6fa;color:#33344d}.home_mobile .content_market .sellIcon[data-v-ef549078]{width:40px;margin-left:10px}.home_mobile .content_market .currency[data-v-ef549078]{width:35%;height:35px;margin:0 10px;border-radius:30px;line-height:35px;background-color:#fff}.home_mobile .content_market .currency img[data-v-ef549078]{width:30px;margin-right:10%}.home_mobile .content_market .sellOut[data-v-ef549078]{padding:0 20px;height:55px;line-height:55px}.home_mobile .content_market .btnLine div[data-v-ef549078]{width:50%;height:55px}.home_mobile .content_market .line_k[data-v-ef549078]{height:30px;margin:10px;font-size:16px}.home_mobile .content_market .line_k img[data-v-ef549078]{width:100px;margin-right:10px}.home_mobile .content_market .prop_type[data-v-ef549078]{height:120px;position:relative;overflow:hidden;margin-top:30px}.home_mobile .content_market .prop_type .prop_item[data-v-ef549078]{width:80px;line-height:50px;margin-right:10px;color:red}.home_mobile .content_market .prop_type .prop_item img[data-v-ef549078]{width:55px;height:55px;border-radius:50%;margin-top:15px}.home_mobile .content_market .prop_type .prop_img[data-v-ef549078]{width:100%;height:80px;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/prop_bg.png);background-size:100% 100%;background-repeat:no-repeat}.home_mobile .content_market .prop_type .propChoose[data-v-ef549078]{background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/prop_choose.png);background-size:100% 100%;background-repeat:no-repeat}.home_mobile .introduction_game[data-v-ef549078]{width:100%;position:relative}.home_mobile .introduction_game .iconOne[data-v-ef549078]{width:85px;height:100px;position:absolute;top:-50px;right:10px}.home_mobile .introduction_game .iconOne img[data-v-ef549078]{width:100%;height:100%}.home_mobile .introduction_game .introduction_title[data-v-ef549078]{font-size:20px;color:#fff;padding-top:50px}.home_mobile .introduction_game .introduction_info[data-v-ef549078]{margin-top:40px}.home_mobile .introduction_game .introduction_info div[data-v-ef549078]{width:30%;height:50px;padding-top:5px;background-color:#fff;line-height:20px;border-radius:30px;font-size:14px;color:#78798d}.home_mobile .introduction_game .market_deal[data-v-ef549078]{width:100%;height:630px;background-color:#fff;border:none;border-radius:0;color:#78798d}.home_mobile .introduction_game .market_deal img[data-v-ef549078]{width:100%;height:32%}.home_mobile .introduction_game .market_deal .deal_text[data-v-ef549078]{width:100%;line-height:28px;font-size:13px}.home_mobile .introduction_game .market_deal .deal_text img[data-v-ef549078]{width:20px;margin:0 10px 0 0}.home_mobile .introduction_game .market_deal .deal_text .deal_title[data-v-ef549078]{font-size:20px;color:#33344d;margin-top:30px}.home_mobile .introduction_game .market_deal .manor[data-v-ef549078]{width:260px;height:80px;line-height:78px;margin:20px 0 300px 60px;font-size:21px}", ""]),
             a["default"] = r
         },
-        9459: function(e, a, t) {
+        1247: function(e, a, t) {
             "use strict";
             t.r(a);
             var i = t(8081)
@@ -97,10 +97,10 @@
               , n = t(3645)
               , s = t.n(n)
               , r = s()(o());
-            r.push([e.id, ".question_web[data-v-f0d20430]{width:100%;height:150vh;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/question_bg.jpg);background-size:100% 110%;background-repeat:no-repeat;font-size:20px;overflow:hidden;position:relative}.question_web .question_title[data-v-f0d20430]{padding-top:160px;font-size:40px}.question_web .down[data-v-f0d20430]{transform:rotate(180deg)}.question_web .question_box[data-v-f0d20430]{padding:20px 20px 150px 20px;background-color:#fff;position:relative}.question_web .question_box .question_logo[data-v-f0d20430]{width:150px;position:absolute;top:-114px;right:20px}.question_web .question_box .problem_item[data-v-f0d20430]{text-align:left;margin-bottom:10px;color:#777a8b;font-size:18px;line-height:25px}.question_web .question_box .problem_item .problem_title[data-v-f0d20430]{padding:10px;font-size:18px;color:#33344d;border:1px solid #e2e2e2;margin:15px 0;cursor:pointer}.question_web .question_box .problem_item .down_img[data-v-f0d20430]{width:20px}.question_mobile[data-v-f0d20430]{width:100%;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/mobile/question_bg_mobile.jpg);background-size:100% 110%;background-repeat:no-repeat;font-size:20px;overflow:hidden;position:relative;padding-bottom:300px}.question_mobile .question_title[data-v-f0d20430]{padding-top:160px;font-size:32px}.question_mobile .down[data-v-f0d20430]{transform:rotate(180deg)}.question_mobile .question_box[data-v-f0d20430]{width:96%;min-height:800px;margin:30px auto;background-color:#fff;position:relative}.question_mobile .question_box .question_logo[data-v-f0d20430]{width:80px;position:absolute;top:-63px;right:20px}.question_mobile .question_box .problem_item[data-v-f0d20430]{width:100%;text-align:left;margin-bottom:10px;color:#777a8b;font-size:18px;line-height:25px}.question_mobile .question_box .problem_item .problem_title[data-v-f0d20430]{padding:10px;font-size:18px;color:#33344d;border-top:1px solid #e2e2e2;border-bottom:1px solid #e2e2e2;margin:15px 0}.question_mobile .question_box .problem_item .down_img[data-v-f0d20430]{width:20px}", ""]),
+            r.push([e.id, ".question_web[data-v-fb456c2e]{width:100%;height:150vh;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/question_bg.jpg);background-size:100% 110%;background-repeat:no-repeat;font-size:20px;overflow:hidden;position:relative}.question_web .question_title[data-v-fb456c2e]{padding-top:160px;font-size:40px}.question_web .down[data-v-fb456c2e]{transform:rotate(180deg)}.question_web .question_box[data-v-fb456c2e]{padding:20px 20px 150px 20px;background-color:#fff;position:relative}.question_web .question_box .question_logo[data-v-fb456c2e]{width:150px;position:absolute;top:-114px;right:20px}.question_web .question_box .problem_item[data-v-fb456c2e]{text-align:left;margin-bottom:10px;color:#777a8b;font-size:18px;line-height:25px}.question_web .question_box .problem_item .problem_title[data-v-fb456c2e]{padding:10px;font-size:18px;color:#33344d;border:1px solid #e2e2e2;margin:15px 0;cursor:pointer}.question_web .question_box .problem_item .down_img[data-v-fb456c2e]{width:20px}.question_mobile[data-v-fb456c2e]{width:100%;background:url(https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/mobile/question_bg_mobile.jpg);background-size:100% 110%;background-repeat:no-repeat;font-size:20px;overflow:hidden;position:relative;padding-bottom:300px}.question_mobile .question_title[data-v-fb456c2e]{padding-top:160px;font-size:32px}.question_mobile .down[data-v-fb456c2e]{transform:rotate(180deg)}.question_mobile .question_box[data-v-fb456c2e]{width:96%;min-height:800px;margin:30px auto;background-color:#fff;position:relative}.question_mobile .question_box .question_logo[data-v-fb456c2e]{width:80px;position:absolute;top:-63px;right:20px}.question_mobile .question_box .problem_item[data-v-fb456c2e]{width:100%;text-align:left;margin-bottom:10px;color:#777a8b;font-size:18px;line-height:25px}.question_mobile .question_box .problem_item .problem_title[data-v-fb456c2e]{padding:10px;font-size:18px;color:#33344d;border-top:1px solid #e2e2e2;border-bottom:1px solid #e2e2e2;margin:15px 0}.question_mobile .question_box .problem_item .down_img[data-v-fb456c2e]{width:20px}", ""]),
             a["default"] = r
         },
-        8537: function(e, a, t) {
+        652: function(e, a, t) {
             "use strict";
             var i = t(144)
               , o = function() {
@@ -114,9 +114,11 @@
             }
               , n = []
               , s = (t(7658),
-            t(7918))
+            t(9669))
               , r = t.n(s)
-              , l = function() {
+              , l = t(7918)
+              , d = t.n(l)
+              , u = function() {
                 var e = this
                   , a = e._self._c;
                 return a("div", [a("el-row", {
@@ -205,10 +207,10 @@
                     }
                 }, [e._v("IOS")]) : e._e()])])])])], 1)
             }
-              , d = []
-              , u = t(3874)
-              , c = t.n(u);
-            function m(e, a) {
+              , c = []
+              , m = t(3874)
+              , g = t.n(m);
+            function p(e, a) {
                 var t;
                 a = a || 200;
                 return function() {
@@ -222,31 +224,29 @@
                     ), a)
                 }
             }
-            var g = t(9669)
-              , p = t.n(g)
-              , h = t(4720)
-              , b = t.n(h);
-            const _ = {
+            var h = t(4720)
+              , _ = t.n(h);
+            const b = {
                 mapAK: "",
                 header: {
-                    "Content-Type": "text/html; charset=UTF-8"
+                    "Content-Type": "application/json;charset=UTF-8"
                 },
                 dataType: "json",
                 responseType: "text"
             }
-              , f = p().create({
-                baseURL: _.url
+              , f = r().create({
+                baseURL: b.url
             });
             function w(e, a, t={}) {
                 return t.data = t.data || {},
-                _.header.Authorization = localStorage.getItem("token"),
-                t.header = Object.assign(_.header, t.header),
+                b.header.Authorization = localStorage.getItem("token"),
+                t.header = Object.assign(b.header, t.header),
                 f({
                     method: e,
                     url: a,
                     headers: t.header,
-                    dataType: t.dataType || _.dataType,
-                    responseType: t.responseType || _.responseType,
+                    dataType: t.dataType || b.dataType,
+                    responseType: t.responseType || b.responseType,
                     data: t.data,
                     params: "GET" === e || "DELETE" === e ? t.data : null,
                     paramsSerializer: t.paramsSerializer
@@ -269,63 +269,74 @@
                 "ERR_BAD_RESPONSE" == a.code || (a.includes("ETIMEDOUT") ? h.Message.error("网络请求超时，请检查网络") : a.includes("Request failed with status code"))
             }
             ));
-            const v = (e,a)=>w("GET", e, a);
-            function x(e) {
-                return v("http://192.168.15.24:9002/https://www.littlebeefarm.net/api/getIdByInviteCode?invite_code=" + e, {
-                    data: {}
-                })
-            }
+            const v = (e,a)=>w("GET", e, a)
+              , x = (e,a)=>w("POST", e, a);
             function y(e) {
-                return v("http://192.168.15.24:9002/https://www.littlebeefarm.net/api/register?code=" + e.code + "&agent_id=" + e.agent_id + "&mobile=" + e.mobile + "&operater_id=" + e.operater_id + "&time=" + e.time + "&invite_code=" + e.invite_code + "&i=" + e.i + "&s=" + e.s + "&t=" + e.t + "&language_id=" + e.language_id + "&url=" + e.url, {
-                    data: {}
+                return v("http://192.168.15.24:9002/https://www.farm888.com/api/getIdByInviteCode?invite_code=" + e, {
+                    params: {}
                 })
             }
             function k(e) {
-                return v("http://192.168.15.24:9002/https://www.littlebeefarm.net/api/setVisitCount?operater_id=" + e.operater_id, {
-                    data: {}
+                return v("http://192.168.15.24:9002/https://www.farm888.com/api/register?code=" + e.code + "&agent_id=" + e.agent_id + "&mobile=" + e.mobile + "&operater_id=" + e.operater_id + "&time=" + e.time + "&invite_code=" + e.invite_code + "&i=" + e.i + "&s=" + e.s + "&t=" + e.t + "&language_id=" + e.language_id + "&url=" + e.url, {
+                    params: {}
                 })
             }
             function C(e) {
-                return v("http://192.168.15.24:9002/https://www.littlebeefarm.net/api/getNoticeData?operater_id=" + e.operater_id, {
-                    data: {}
-                })
-            }
-            function N(e) {
-                return v("http://192.168.15.24:9002/https://www.littlebeefarm.net/api/getMarketOrder?operater_id=" + e.operater_id + "&size=" + e.size + "&page=" + e.page, {
-                    data: {}
-                })
-            }
-            function I(e) {
-                return v("http://192.168.15.24:9002/https://www.littlebeefarm.net/api/echarts?operater_id=" + e.operater_id + "&item_id=" + e.item_id, {
-                    data: {}
+                return v("http://192.168.15.24:9002/https://www.farm888.com/api/setVisitCount?operater_id=" + e.operater_id, {
+                    params: {}
                 })
             }
             function S(e) {
-                return v("http://192.168.15.24:9002/https://www.littlebeefarm.net/api/getWebInfo?operater_id=" + e.operater_id, {
-                    data: {}
+                return v("http://192.168.15.24:9002/https://www.farm888.com/api/getNoticeData?operater_id=" + e.operater_id, {
+                    params: {}
+                })
+            }
+            function I(e) {
+                return v("http://192.168.15.24:9002/https://www.farm888.com/api/getMarketOrder?operater_id=" + e.operater_id + "&size=" + e.size + "&page=" + e.page, {
+                    params: {}
+                })
+            }
+            function N(e) {
+                return v("http://192.168.15.24:9002/https://www.farm888.com/api/echarts?operater_id=" + e.operater_id + "&item_id=" + e.item_id, {
+                    params: {}
                 })
             }
             function $(e) {
-                return v("http://192.168.15.24:9002/https://www.littlebeefarm.net/api/getOpenInstallConfig?operater_id=" + e.operater_id, {
-                    data: {}
+                return v("http://192.168.15.24:9002/https://www.farm888.com/api/getWebInfo?operater_id=" + e.operater_id, {
+                    params: {}
                 })
             }
             function z(e) {
-                return v("http://192.168.15.24:9002/https://www.littlebeefarm.net/api/checkOperator?operater_id=" + e.operater_id + "&agent_id=" + e.agent_id, {
-                    data: {}
+                return v("http://192.168.15.24:9002/https://www.farm888.com/api/getOpenInstallConfig?operater_id=" + e.operater_id, {
+                    params: {}
                 })
             }
             function D(e) {
-                return v("http://192.168.15.24:9002/https://www.littlebeefarm.net/api/getDomainInfo?domain=" + e.domain, {
-                    data: {}
+                return v("http://192.168.15.24:9002/https://www.farm888.com/api/checkOperator?operater_id=" + e.operater_id + "&agent_id=" + e.agent_id, {
+                    params: {}
                 })
             }
             function B(e) {
-                return v("http://192.168.15.24:9002/https://www.littlebeefarm.net/api/sendEmailCode?email=" + e.email + "&agent_id=" + e.agent_id + "&operater_id=" + e.operater_id + "&language_id=" + e.language_id, {
-                    data: {}
+                return v("http://192.168.15.24:9002/https://www.farm888.com/api/getDomainInfo?domain=" + e.domain, {
+                    params: {}
                 })
             }
-            var L = {
+            function q(e) {
+                return x("http://192.168.15.24:9002/https://www.farm888.com/api/sendEmailCode", {
+                    data: e
+                })
+            }
+            function L(e) {
+                return v("http://192.168.15.24:9002/https://www.farm888.com/api/checkParams?operater_id=" + e.operater_id + "&agent_id=" + e.agent_id + "&invite_code=" + e.invite_code, {
+                    params: {}
+                })
+            }
+            function U(e) {
+                return v("http://192.168.15.24:9002/https://www.farm888.com/api/calcClickNum?uid=" + e.uid, {
+                    params: {}
+                })
+            }
+            var T = {
                 data() {
                     return {
                         language: sessionStorage.getItem("local"),
@@ -343,7 +354,7 @@
                     getAgengtOperaNo() {
                         let e = this.setValue("agent_id")
                           , a = this.setValue("operater_id");
-                        z({
+                        D({
                             agent_id: Number(e),
                             operater_id: Number(a)
                         }).then((e=>{
@@ -354,7 +365,7 @@
                     },
                     getOpeninstallList() {
                         let e = this.setValue("operater_id");
-                        $({
+                        z({
                             operater_id: e
                         }).then((e=>{
                             200 == e.code && e.data ? this.getPhoneInfo(e.data) : (this.urlFalse = !0,
@@ -365,7 +376,7 @@
                     bindQRCode(e) {
                         let a = "";
                         document.getElementById("qrCode").innerHTML = "",
-                        D({
+                        B({
                             domain: e
                         }).then((t=>{
                             if (200 == t.code) {
@@ -378,13 +389,13 @@
                                 a = this.setValue("invite") && this.setValue("inviter_id") ? e + `#/home?operater_id=${i}&agent_id=${o}&language_id=${n}&invite=${this.setValue("invite")}&inviter_id=${this.setValue("inviter_id")}` : this.setValue("invite") ? e + `#/home?operater_id=${i}&agent_id=${o}&language_id=${n}&invite=${this.setValue("invite")}` : this.setValue("inviter_id") ? e + `#/home?operater_id=${i}&agent_id=${o}&language_id=${n}&inviter_id=${this.setValue("inviter_id")}` : e + `#/home?operater_id=${i}&agent_id=${o}&language_id=${n}`
                             } else
                                 a = window.location.href;
-                            new (c())(this.$refs.qrCodeDiv,{
+                            new (g())(this.$refs.qrCodeDiv,{
                                 text: a,
                                 width: 120,
                                 height: 120,
                                 colorDark: "#333333",
                                 colorLight: "#ffffff",
-                                correctLevel: c().CorrectLevel.L
+                                correctLevel: g().CorrectLevel.L
                             })
                         }
                         ))
@@ -402,7 +413,7 @@
                         }
                         ))
                     },
-                    bottomDownGameNow: m((function(e, a, t) {
+                    bottomDownGameNow: p((function(e, a, t) {
                         this.$parent.$children.map(((a,t)=>{
                             a.openWebGame && this.$parent.$children[t].downGameNow(e)
                         }
@@ -464,13 +475,13 @@
                     }
                 }
             }
-              , U = L
-              , T = (t(7421),
+              , O = T
+              , P = (t(7421),
             t(1001))
-              , q = (0,
-            T.Z)(U, l, d, !1, null, "6ead3ed4", null)
-              , O = q.exports
-              , G = function() {
+              , G = (0,
+            P.Z)(O, u, c, !1, null, "6ead3ed4", null)
+              , M = G.exports
+              , F = function() {
                 var e = this
                   , a = e._self._c;
                 return a("div", [a("el-row", {
@@ -950,13 +961,13 @@
                     }
                 })])])])], 1)], 1)], 1)
             }
-              , M = []
-              , A = (t(541),
+              , V = []
+              , j = (t(541),
             JSON.parse('[{"language_id":"","Countryname":"Hong Kong, China","codeNumber":"852"},{"language_id":"","Countryname":"Angola","codeNumber":"244"},{"language_id":"","Countryname":"Afghanistan","codeNumber":"93"},{"language_id":"","Countryname":"Albania","codeNumber":"355"},{"language_id":"","Countryname":"Algeria","codeNumber":"213"},{"language_id":"","Countryname":"Republic of Andorra","codeNumber":"376"},{"language_id":"","Countryname":"Anguilla island","codeNumber":"1264"},{"language_id":"","Countryname":"Antigua and Barbuda","codeNumber":"1268"},{"language_id":"","Countryname":"Argentina","codeNumber":"54"},{"language_id":"","Countryname":"Armenia","codeNumber":"374"},{"language_id":"","Countryname":"Ascension","codeNumber":"247"},{"language_id":"","Countryname":"Australia","codeNumber":"61"},{"language_id":"","Countryname":"Austria","codeNumber":"43"},{"language_id":"","Countryname":"Azerbaijan","codeNumber":"994"},{"language_id":"","Countryname":"Bahamas","codeNumber":"1242"},{"language_id":"","Countryname":"Bahrain","codeNumber":"973"},{"language_id":"","Countryname":"Bangladesh","codeNumber":"880"},{"language_id":"","Countryname":"Barbados","codeNumber":"1246"},{"language_id":"","Countryname":"Belarus","codeNumber":"375"},{"language_id":"nl_be","Countryname":"Belgium","codeNumber":"32"},{"language_id":"","Countryname":"Belize","codeNumber":"501"},{"language_id":"","Countryname":"Benin","codeNumber":"229"},{"language_id":"","Countryname":"Bermuda","codeNumber":"1441"},{"language_id":"","Countryname":"Bolivia","codeNumber":"591"},{"language_id":"","Countryname":"Botswana","codeNumber":"267"},{"language_id":"","Countryname":"Brazil","codeNumber":"55"},{"language_id":"","Countryname":"Brunei","codeNumber":"673"},{"language_id":"","Countryname":"Bulgaria","codeNumber":"359"},{"language_id":"","Countryname":"Burkina Faso","codeNumber":"226"},{"language_id":"","Countryname":"Burundi","codeNumber":"257"},{"language_id":"","Countryname":"Cameroon","codeNumber":"237"},{"language_id":"en_us","Countryname":"United States","codeNumber":"1"},{"language_id":"","Countryname":"Cayman Islands","codeNumber":"1345"},{"language_id":"","Countryname":"Central African Republic","codeNumber":"236"},{"language_id":"","Countryname":"Chad","codeNumber":"235"},{"language_id":"","Countryname":"Chile","codeNumber":"56"},{"language_id":"","Countryname":"Colombia","codeNumber":"57"},{"language_id":"","Countryname":"Congo","codeNumber":"242"},{"language_id":"","Countryname":"Cook Islands","codeNumber":"682"},{"language_id":"","Countryname":"Costa Rica","codeNumber":"506"},{"language_id":"","Countryname":"Cuba","codeNumber":"53"},{"language_id":"","Countryname":"Cyprus","codeNumber":"357"},{"language_id":"cs_cz","Countryname":"Czech Republic","codeNumber":"420"},{"language_id":"da_dk","Countryname":"Denmark","codeNumber":"45"},{"language_id":"","Countryname":"Djibouti","codeNumber":"253"},{"language_id":"","Countryname":"Ecuador","codeNumber":"593"},{"language_id":"","Countryname":"Egypt","codeNumber":"20"},{"language_id":"","Countryname":"El Salvador","codeNumber":"503"},{"language_id":"","Countryname":"Estonia","codeNumber":"372"},{"language_id":"","Countryname":"Ethiopia","codeNumber":"251"},{"language_id":"","Countryname":"Fiji","codeNumber":"679"},{"language_id":"fi_fi","Countryname":"Finland","codeNumber":"358"},{"language_id":"fr_fr","Countryname":"France","codeNumber":"33"},{"language_id":"","Countryname":"French Guiana","codeNumber":"594"},{"language_id":"","Countryname":"Gabon","codeNumber":"241"},{"language_id":"","Countryname":"Gambia","codeNumber":"220"},{"language_id":"","Countryname":"Georgia","codeNumber":"995"},{"language_id":"de_de","Countryname":"Germany","codeNumber":"49"},{"language_id":"","Countryname":"Ghana","codeNumber":"233"},{"language_id":"","Countryname":"Gibraltar","codeNumber":"350"},{"language_id":"el_gr","Countryname":"Greece","codeNumber":"30"},{"language_id":"","Countryname":"Grenada","codeNumber":"1473"},{"language_id":"","Countryname":"Guam","codeNumber":"1671"},{"language_id":"","Countryname":"Guatemala","codeNumber":"502"},{"language_id":"","Countryname":"guinea","codeNumber":"224"},{"language_id":"","Countryname":"Guyana","codeNumber":"592"},{"language_id":"","Countryname":"Haiti","codeNumber":"509"},{"language_id":"","Countryname":"Honduras","codeNumber":"504"},{"language_id":"hu_hu","Countryname":"Hungary","codeNumber":"36"},{"language_id":"","Countryname":"Iceland","codeNumber":"354"},{"language_id":"","Countryname":"India","codeNumber":"91"},{"language_id":"","Countryname":"Indonesia","codeNumber":"62"},{"language_id":"","Countryname":"Iran","codeNumber":"98"},{"language_id":"","Countryname":"Iraq","codeNumber":"964"},{"language_id":"","Countryname":"Ireland","codeNumber":"353"},{"language_id":"he_il","Countryname":"Israel","codeNumber":"972"},{"language_id":"it_it","Countryname":"Italy","codeNumber":"39"},{"language_id":"","Countryname":"Jamaica","codeNumber":"1876"},{"language_id":"ja_jp","Countryname":"Japan","codeNumber":"81"},{"language_id":"","Countryname":"Jordan","codeNumber":"962"},{"language_id":"ru_ru","Countryname":"Russia","codeNumber":"7"},{"language_id":"","Countryname":"Kenya","codeNumber":"254"},{"language_id":"ko_kr","Countryname":"Korea","codeNumber":"82"},{"language_id":"","Countryname":"Kuwait","codeNumber":"965"},{"language_id":"","Countryname":"Kyrgyzstan","codeNumber":"996"},{"language_id":"","Countryname":"Laos","codeNumber":"856"},{"language_id":"","Countryname":"Latvia","codeNumber":"371"},{"language_id":"","Countryname":"Lebanon","codeNumber":"961"},{"language_id":"","Countryname":"Lesotho","codeNumber":"266"},{"language_id":"","Countryname":"Liberia","codeNumber":"231"},{"language_id":"","Countryname":"Libya","codeNumber":"218"},{"language_id":"","Countryname":"Liechtenstein","codeNumber":"423"},{"language_id":"","Countryname":"Lithuania","codeNumber":"370"},{"language_id":"","Countryname":"Luxembourg","codeNumber":"352"},{"language_id":"","Countryname":"Macao (China)","codeNumber":"853"},{"language_id":"","Countryname":"Madagascar","codeNumber":"261"},{"language_id":"","Countryname":"Malawi","codeNumber":"265"},{"language_id":"","Countryname":"Malaysia","codeNumber":"60"},{"language_id":"","Countryname":"Maldives","codeNumber":"960"},{"language_id":"","Countryname":"Mali","codeNumber":"223"},{"language_id":"","Countryname":"Malta","codeNumber":"356"},{"language_id":"","Countryname":"Mariana Islands","codeNumber":"1670"},{"language_id":"","Countryname":"Martinique","codeNumber":"596"},{"language_id":"","Countryname":"Mauritius","codeNumber":"230"},{"language_id":"","Countryname":"Mexico","codeNumber":"52"},{"language_id":"","Countryname":"Moldova","codeNumber":"373"},{"language_id":"","Countryname":"Monaco","codeNumber":"377"},{"language_id":"","Countryname":"Mongolia","codeNumber":"976"},{"language_id":"","Countryname":"Montserrat","codeNumber":"1664"},{"language_id":"","Countryname":"Morocco","codeNumber":"212"},{"language_id":"","Countryname":"Mozambique","codeNumber":"258"},{"language_id":"","Countryname":"Namibia","codeNumber":"264"},{"language_id":"","Countryname":"Nauru","codeNumber":"674"},{"language_id":"","Countryname":"Nepal","codeNumber":"977"},{"language_id":"","Countryname":"Netherlands Antilles","codeNumber":"599"},{"language_id":"nl_nl","Countryname":"Netherlands","codeNumber":"31"},{"language_id":"","Countryname":"New Zealand","codeNumber":"64"},{"language_id":"","Countryname":"Nicaragua","codeNumber":"505"},{"language_id":"","Countryname":"Niger","codeNumber":"227"},{"language_id":"","Countryname":"Nigeria","codeNumber":"234"},{"language_id":"","Countryname":"North Korea","codeNumber":"850"},{"language_id":"no_no","Countryname":"Norway","codeNumber":"47"},{"language_id":"","Countryname":"Oman","codeNumber":"968"},{"language_id":"","Countryname":"Pakistan","codeNumber":"92"},{"language_id":"","Countryname":"Panama","codeNumber":"507"},{"language_id":"","Countryname":"Papua New Guinea","codeNumber":"675"},{"language_id":"","Countryname":"Paraguay","codeNumber":"595"},{"language_id":"","Countryname":"Peru","codeNumber":"51"},{"language_id":"","Countryname":"Philippines","codeNumber":"63"},{"language_id":"pl_pl","Countryname":"Poland","codeNumber":"48"},{"language_id":"","Countryname":"French Polynesia","codeNumber":"689"},{"language_id":"pt_pt","Countryname":"Portugal","codeNumber":"351"},{"language_id":"","Countryname":"Puerto Rico","codeNumber":"1787"},{"language_id":"","Countryname":"Qatar","codeNumber":"974"},{"language_id":"","Countryname":"Reunion","codeNumber":"262"},{"language_id":"","Countryname":"Romania","codeNumber":"40"},{"language_id":"ru_ru","Countryname":"Russia","codeNumber":"7"},{"language_id":"","Countryname":"Saint Lucia","codeNumber":"1758"},{"language_id":"","Countryname":"Saint Vincent island","codeNumber":"1784"},{"language_id":"","Countryname":"Eastern Samoa (United States)","codeNumber":"684"},{"language_id":"","Countryname":"Western Samoa","codeNumber":"685"},{"language_id":"","Countryname":"San Marino","codeNumber":"378"},{"language_id":"","Countryname":" Sao Tome and Principe","codeNumber":"239"},{"language_id":"","Countryname":"Saudi Arabia","codeNumber":"966"},{"language_id":"","Countryname":"Senegal","codeNumber":"221"},{"language_id":"","Countryname":"Seychelles","codeNumber":"248"},{"language_id":"","Countryname":"Sierra Leone","codeNumber":"232"},{"language_id":"","Countryname":"Singapore","codeNumber":"65"},{"language_id":"","Countryname":"Slovakia","codeNumber":"421"},{"language_id":"sl_sl","Countryname":"Slovenia","codeNumber":"386"},{"language_id":"","Countryname":"Solomon Islands","codeNumber":"677"},{"language_id":"","Countryname":"Somalia","codeNumber":"252"},{"language_id":"","Countryname":"South Africa","codeNumber":"27"},{"language_id":"es_es","Countryname":"Spain","codeNumber":"34"},{"language_id":"","Countryname":"Sri Lanka","codeNumber":"94"},{"language_id":"","Countryname":"Sudan","codeNumber":"249"},{"language_id":"","Countryname":"Suriname","codeNumber":"597"},{"language_id":"","Countryname":"Eswatini","codeNumber":"268"},{"language_id":"sv_se","Countryname":"Sweden","codeNumber":"46"},{"language_id":"","Countryname":"Switzerland","codeNumber":"41"},{"language_id":"","Countryname":"Syria","codeNumber":"963"},{"language_id":"","Countryname":"Taiwan Province (China)","codeNumber":"886"},{"language_id":"","Countryname":"Tajikistan","codeNumber":"992"},{"language_id":"","Countryname":"Tanzania","codeNumber":"255"},{"language_id":"","Countryname":"Togo","codeNumber":"228"},{"language_id":"","Countryname":"Tonga","codeNumber":"676"},{"language_id":"","Countryname":"Trinidad and Tobago","codeNumber":"1868"},{"language_id":"","Countryname":"Tunisia","codeNumber":"216"},{"language_id":"tr_tr","Countryname":"turkey","codeNumber":"90"},{"language_id":"","Countryname":"Turkmenistan","codeNumber":"993"},{"language_id":"","Countryname":"Uganda","codeNumber":"256"},{"language_id":"","Countryname":"Ukraine","codeNumber":"380"},{"language_id":"","Countryname":"UK","codeNumber":"44"},{"language_id":"en_us","Countryname":"United States","codeNumber":"1"},{"language_id":"","Countryname":"Uruguay","codeNumber":"598"},{"language_id":"","Countryname":"Uzbekistan","codeNumber":"998"},{"language_id":"","Countryname":"Venezuela","codeNumber":"58"},{"language_id":"","Countryname":"Vietnam","codeNumber":"84"},{"language_id":"","Countryname":"Yemen","codeNumber":"967"},{"language_id":"","Countryname":"Yugoslavia","codeNumber":"381"},{"language_id":"","Countryname":"Zimbabwe","codeNumber":"263"},{"language_id":"","Countryname":"Zambia","codeNumber":"260"},{"language_id":"","Countryname":"Diego Garcia island","codeNumber":"246"},{"language_id":"","Countryname":"Aruba","codeNumber":"297"},{"language_id":"","Countryname":"Bhutan","codeNumber":"975"},{"language_id":"","Countryname":"Bosnia and Herzegovina","codeNumber":"387"},{"language_id":"","Countryname":"Cape Verde","codeNumber":"238"},{"language_id":"","Countryname":"Comoros","codeNumber":"269"},{"language_id":"","Countryname":"DRC","codeNumber":"243"},{"language_id":"","Countryname":"Republic of Croatia","codeNumber":"385"},{"language_id":"","Countryname":"Dominican Republic","codeNumber":"1809"},{"language_id":"","Countryname":"Equatorial Guinea","codeNumber":"240"},{"language_id":"","Countryname":"Falkland Islands","codeNumber":"500"},{"language_id":"","Countryname":"Faroe Islands","codeNumber":"298"},{"language_id":"","Countryname":"Greenland","codeNumber":"299"},{"language_id":"","Countryname":"Guadeloupe island","codeNumber":"590"},{"language_id":"","Countryname":"Guinea Bissau","codeNumber":"245"},{"language_id":"","Countryname":"Macedonia","codeNumber":"389"},{"language_id":"","Countryname":"Mauritania","codeNumber":"222"},{"language_id":"","Countryname":"Federated States of Micronesia","codeNumber":"691"},{"language_id":"","Countryname":"Montenegro","codeNumber":"382"},{"language_id":"","Countryname":"New Caledonia","codeNumber":"687"},{"language_id":"","Countryname":"Norfolk Island","codeNumber":"6723"},{"language_id":"","Countryname":"Palau","codeNumber":"680"},{"language_id":"","Countryname":"Palestine","codeNumber":"970"},{"language_id":"","Countryname":"Republic of Rwanda","codeNumber":"250"},{"language_id":"","Countryname":"Saint Kitts and Nevis","codeNumber":"1869"},{"language_id":"","Countryname":"Serbia","codeNumber":"381"},{"language_id":"","Countryname":"South Sudan","codeNumber":"211"},{"language_id":"","Countryname":"Vanuatu","codeNumber":"678"},{"language_id":"","Countryname":"British Virgin Islands","codeNumber":"1809"},{"language_id":"","Countryname":"Republic of C ô te d\'Ivoire","codeNumber":"225"},{"language_id":"","Countryname":"Dominica","codeNumber":"1767"},{"language_id":"","Countryname":"East Timor","codeNumber":"670"},{"language_id":"","Countryname":"state of Eritrea","codeNumber":"291"},{"language_id":"","Countryname":"Wallis and Futuna Islands","codeNumber":"681"},{"language_id":"","Countryname":"Virgin Islands (United States)","codeNumber":"1340"},{"language_id":"","Countryname":"Tuvalu","codeNumber":"688"},{"language_id":"","Countryname":"Turks and Caicos Islands","codeNumber":"1809"},{"language_id":"","Countryname":"Tokelau","codeNumber":"690"},{"language_id":"","Countryname":"Marshall Islands","codeNumber":"692"},{"language_id":"","Countryname":"Kiribati","codeNumber":"686"},{"language_id":"","Countryname":"Hawaii","codeNumber":"1808"},{"language_id":"","Countryname":"Saint Pierre island and Miquelon island","codeNumber":"508"},{"language_id":"","Countryname":"Niue","codeNumber":"683"},{"language_id":"","Countryname":"St. Helena","codeNumber":"290"},{"language_id":"","Countryname":"Vatican","codeNumber":"379"},{"language_id":"","Countryname":"Wake Island (United States)","codeNumber":"1808"}]'))
-              , V = t(8495)
-              , P = t.n(V)
-              , j = t(2300)
-              , E = (t(9755),
+              , A = t(8495)
+              , E = t.n(A)
+              , W = t(2300)
+              , R = (t(9755),
             {
                 name: "Header",
                 data() {
@@ -984,16 +995,16 @@
                         top_id: "",
                         time: 0,
                         timeTwo: "",
-                        sendTime: "",
+                        sendTime: null,
                         jumpGameUrl: "",
-                        signKey: "8p83fwh50kpcuj25",
                         phoneUrl: "",
                         webUrl: "",
                         androidUrl: "",
                         iosUrl: "",
                         showLoginId: "",
                         startTime: sessionStorage.getItem("startTime"),
-                        codeType: !1
+                        codeType: !1,
+                        encryptionParameter: ""
                     }
                 },
                 mounted() {
@@ -1040,7 +1051,7 @@
                     },
                     getOpeninstallList() {
                         let e = this.setValue("operater_id");
-                        e && $({
+                        e && z({
                             operater_id: e
                         }).then((e=>{
                             200 == e.code && e.data && (e.data.android_url && (this.androidUrl = e.data.android_url),
@@ -1058,7 +1069,7 @@
                         this.Android = !1)
                     },
                     countriesList() {
-                        let e = A.sort((function(e, a) {
+                        let e = j.sort((function(e, a) {
                             return e.codeNumber - a.codeNumber
                         }
                         ));
@@ -1092,7 +1103,7 @@
                         }
                         ))
                     },
-                    jumpLcation: m((function(e, a) {
+                    jumpLcation: p((function(e, a) {
                         this.chooseHeaderIndex = a,
                         document.documentElement.scrollTop = 0,
                         this.$router.push({
@@ -1110,42 +1121,19 @@
                     async getETH() {
                         if (!window.ethereum)
                             return alert(this.$t("please_install_wallet"));
-                        window.web3 = new (r())(ethereum);
+                        window.web3 = new (d())(ethereum);
                         var e = window.web3;
                         await ethereum.enable();
-                        var a = await e.eth.getAccounts()
-                          , t = a[0];
-                        console.log(t, 1)
-                    },
-                    openWebGame(e) {
-                        if (this.dealUrlParm(),
-                        this.showLoginId) {
-                            let e = ""
-                              , a = this.setValue("user_id") || sessionStorage.getItem("phoneCode")
-                              , t = sessionStorage.getItem("outUrlType") || "email"
-                              , i = parseInt((new Date).getTime() / 1e3);
-                              console.log(P()),
-                              console.log(this.jumpGameUrl),
-                            e = "&s=" + P()(String(a) + String(i) + this.signKey) + "&i=" + a + "&time=" + i + "&t=" + t + "&gallo="+(String(a) + String(i) + this.signKey),
-                            this.isUrl()
-                            //this.isUrl(this.webUrl, this.jumpGameUrl + e)
-                        } else
-                            this.Android || this.ios ? (this.loginShowVisible = !0,
-                            this.loginVisible = !1) : (this.loginVisible = !0,
-                            this.loginShowVisible = !1)
+                        var a = await e.eth.getAccounts();
+                        a[0]
                     },
                     dealUrlParm() {
                         let e = {}
-                          , a = (parseInt((new Date).getTime() / 1e3),
-                        this.setValue("agent_id"))
+                          , a = this.setValue("agent_id")
                           , t = this.setValue("operater_id")
                           , i = sessionStorage.getItem("topId")
                           , o = this.setValue("invite")
                           , n = this.setValue("language_id");
-                        this.setValue("s"),
-                        this.setValue("i"),
-                        this.setValue("time"),
-                        this.setValue("t");
                         e = {
                             operater_id: t,
                             agent_id: a,
@@ -1153,95 +1141,95 @@
                             invite: o,
                             inviter_id: i
                         },
-                        this.jumpGameUrl = encodeURIComponent(j.DS.encode(JSON.stringify(e)))
+                        this.jumpGameUrl = encodeURIComponent(W.DS.encode(JSON.stringify(e))),
+
+                        
+                        console.log(e);
+
+                        console.log(encodeURIComponent(W.DS.encode(JSON.stringify(e))));
+                    },
+                    openWebGame(e) {
+                        this.dealUrlParm(),
+                        this.showLoginId ? this.isUrl(this.webUrl, this.jumpGameUrl + this.encryptionParameter) : this.Android || this.ios ? (this.loginShowVisible = !0,
+                        this.loginVisible = !1) : (this.loginVisible = !0,
+                        this.loginShowVisible = !1)
+                        
+
+                        console.log(this.dealUrlParm());
+                        console.log(this.encryptionParameter);
+                        console.log(this.webUrl, this.jumpGameUrl + this.encryptionParameter);
+
+                        //return false;
                     },
                     downGameNow(e) {
-                        let a = parseInt((new Date).getTime() / 1e3)
-                          , t = "8p83fwh50kpcuj25"
-                          , i = ""
-                          , o = ""
-                          , n = ""
-                          , s = ""
-                          , r = this.setValue("agent_id")
-                          , l = this.setValue("operater_id")
-                          , d = sessionStorage.getItem("topId")
-                          , u = this.setValue("invite")
-                          , c = this.setValue("language_id");
-                        i = {
-                            operater_id: l,
-                            agent_id: r,
-                            language_id: c,
-                            invite: u,
-                            inviter_id: d,
+                        let a = ""
+                          , t = this.setValue("agent_id")
+                          , i = this.setValue("operater_id")
+                          , o = sessionStorage.getItem("topId")
+                          , n = this.setValue("invite")
+                          , s = this.setValue("language_id");
+                        a = {
+                            operater_id: i,
+                            agent_id: t,
+                            language_id: s,
+                            invite: n,
+                            inviter_id: o,
                             url: sessionStorage.getItem("outUrlType") ? sessionStorage.getItem("oneUrl") : window.location.href
-                        },
-                        sessionStorage.getItem("outUrlType") ? (n = this.setValue("user_id"),
-                        s = sessionStorage.getItem("outUrlType")) : (n = sessionStorage.getItem("phoneCode"),
-                        s = "email"),
-                        o = "&s=" + P()(String(n) + String(a) + t) + "&i=" + n + "&time=" + a + "&t=" + s;
-                        let m = "";
-                        if (m = sessionStorage.getItem("loginId") ? encodeURIComponent(j.DS.encode(JSON.stringify(i))) + o : encodeURIComponent(j.DS.encode(JSON.stringify(i))),
+                        };
+                        let r = "";
+                        if (r = sessionStorage.getItem("loginId") ? encodeURIComponent(W.DS.encode(JSON.stringify(a))) + this.encryptionParameter : encodeURIComponent(W.DS.encode(JSON.stringify(a))),
                         sessionStorage.getItem("loginId"))
                             switch (e) {
                             case 1:
-                                this.isUrl(this.webUrl, m);
+                                this.isUrl(this.webUrl, r);
                                 break;
                             case 2:
-                                this.isUrl(this.androidUrl, m);
+                                this.isUrl(this.androidUrl, r);
                                 break;
                             case 3:
-                                this.isUrl(this.iosUrl, m);
+                                this.isUrl(this.iosUrl, r);
                                 break
                             }
                         else
                             switch (e) {
                             case 1:
-                                this.isUrl(this.webUrl, m);
+                                this.isUrl(this.webUrl, r);
                                 break;
                             case 2:
-                                this.isUrl(this.androidUrl, m);
+                                this.isUrl(this.androidUrl, r);
                                 break;
                             case 3:
-                                this.isUrl(this.iosUrl, m);
+                                this.isUrl(this.iosUrl, r);
                                 break
                             }
                     },
                     downGame(e) {
                         if (this.showLoginId) {
                             let a = {}
-                              , t = parseInt((new Date).getTime() / 1e3)
-                              , i = "8p83fwh50kpcuj25"
-                              , o = ""
-                              , n = ""
-                              , s = ""
-                              , r = this.setValue("agent_id")
-                              , l = this.setValue("operater_id")
-                              , d = sessionStorage.getItem("topId")
-                              , u = this.setValue("invite")
-                              , c = this.setValue("language_id");
+                              , t = this.setValue("agent_id")
+                              , i = this.setValue("operater_id")
+                              , o = sessionStorage.getItem("topId")
+                              , n = this.setValue("invite")
+                              , s = this.setValue("language_id");
                             a = {
-                                operater_id: l,
-                                agent_id: r,
-                                language_id: c,
-                                invite: u,
-                                inviter_id: d,
+                                operater_id: i,
+                                agent_id: t,
+                                language_id: s,
+                                invite: n,
+                                inviter_id: o,
                                 url: sessionStorage.getItem("outUrlType") ? sessionStorage.getItem("oneUrl") : window.location.href
-                            },
-                            sessionStorage.getItem("outUrlType") ? (n = this.setValue("user_id"),
-                            s = sessionStorage.getItem("outUrlType")) : (n = this.form.showarea_code + String(this.form.phone),
-                            s = "email"),
-                            o = "&s=" + P()(String(n) + String(t) + i) + "&i=" + n + "&time=" + t + "&t=" + s;
-                            let m = "";
-                            switch (m = sessionStorage.getItem("loginId") ? encodeURIComponent(j.DS.encode(JSON.stringify(a))) + o : encodeURIComponent(j.DS.encode(JSON.stringify(a))),
+                            };
+                            let r = "";
+                            switch (r = sessionStorage.getItem("loginId") ? encodeURIComponent(W.DS.encode(JSON.stringify(a))) + this.encryptionParameter : encodeURIComponent(W.DS.encode(JSON.stringify(a))),
                             e) {
                             case 1:
-                                this.isUrl(this.webUrl, m);
+                                this.isUrl(this.webUrl, r);
                                 break;
                             case 2:
-                                this.isUrl(this.androidUrl, m);
+                                this.isUrl(this.androidUrl, r);
                                 break;
                             case 3:
-                                this.isUrl(this.iosUrl, m);
+                                this.isUrl(this.iosUrl, r);
                                 break
                             }
                         } else
@@ -1259,32 +1247,26 @@
                     },
                     getInviteCode() {
                         let e = this.setValue("invite");
-                        e && x(e).then((e=>{
+                        e && y(e).then((e=>{
                             200 == e.code && (this.top_id = e.data.invite_uid,
                             sessionStorage.setItem("topId", e.data.invite_uid))
                         }
                         ))
                     },
-                    sendCode: m((function(e, a) {
-                        if (this.sendTime)
-                            return !1;
-                        if (0 != this.time && 60 != this.time)
-                            return !1;
-                        0 == this.time && (this.time = 59);
-                        let t = /^([a-zA-Z]|[0-9])(\w|\-)+@[a-zA-Z0-9]+\.([a-zA-Z]{2,4})$/;
-                        if (!t.test(this.form.email))
-                            return this.$message.error(this.$t("please_sure_email"));
+                    sendCode: p((function(e, a) {
+                        let t = this.form.email.split("@");
+                        return t[1] ? !this.sendTime && ((0 == this.time || 60 == this.time) && (0 == this.time && (this.time = 59),
                         this.getCode(),
-                        this.sendTime = setInterval((()=>{
+                        void (this.sendTime = setInterval((()=>{
                             this.time--,
                             this.time <= 0 && (this.time = 0,
                             clearInterval(this.sendTime),
-                            this.sendTime = "")
+                            this.sendTime = null)
                         }
-                        ), 1e3)
+                        ), 1e3)))) : this.$message.error(this.$t("please_sure_email"))
                     }
                     ), 200),
-                    getCode: m((function(e, a) {
+                    getCode: p((function(e, a) {
                         let t = this
                           , i = t.setValue("agent_id")
                           , o = t.setValue("operater_id");
@@ -1292,10 +1274,10 @@
                             return t.$message.error(t.$t("channel_exception"));
                         if (!o)
                             return t.$message.error(t.$t("operator_exception"));
-                        let n = /^([a-zA-Z]|[0-9])(\w|\-)+@[a-zA-Z0-9]+\.([a-zA-Z]{2,4})$/;
-                        if (!n.test(this.form.email))
+                        let n = this.form.email.split("@");
+                        if (!n[1])
                             return this.$message.error(this.$t("please_sure_email"));
-                        B({
+                        q({
                             email: t.form.email,
                             agent_id: i,
                             operater_id: o,
@@ -1308,7 +1290,7 @@
                         ))
                     }
                     ), 1e3),
-                    registered: m((function() {
+                    registered: p((function() {
                         if (this.loginLoading)
                             return !1;
                         let e = this.setValue("agent_id")
@@ -1321,8 +1303,8 @@
                         if (sessionStorage.getItem("outUrlType"))
                             s = sessionStorage.getItem("oneUrl");
                         else {
-                            let e = /^([a-zA-Z]|[0-9])(\w|\-)+@[a-zA-Z0-9]+\.([a-zA-Z]{2,4})$/;
-                            if (!e.test(this.form.email))
+                            let e = this.form.email.split("@");
+                            if (!e[1])
                                 return this.$message.error(this.$t("please_sure_email"));
                             if (!this.codeType)
                                 return this.loginLoading = !1,
@@ -1334,7 +1316,7 @@
                         }
                         return e ? a ? (this.loginLoading = !0,
                         n = this.setValue("user_id") && this.setValue("user_id").split("#")[0] ? this.setValue("user_id").split("#")[0] : this.setValue("user_id") && !this.setValue("user_id").split("#")[0] ? this.setValue("user_id") : sessionStorage.getItem("phoneCode"),
-                        void y({
+                        void k({
                             code: this.form.code || "",
                             mobile: this.form.phone || "",
                             agent_id: e,
@@ -1350,14 +1332,24 @@
                             this.loginLoading = !1,
                             200 == e.code ? (this.$message.success(this.$t("login_success")),
                             this.showLoginId = e.data.userId,
+                            this.encryptionParameter = e.data.sss,
                             sessionStorage.setItem("startTime", (new Date).getTime()),
                             sessionStorage.setItem("loginId", e.data.userId),
                             this.timeMounted(),
-                            this.handleClose()) : this.$message.error(e.msg)
+                            this.handleClose(),
+                            this.successLogin(e.data.userId)) : this.$message.error(e.msg)
                         }
                         ))) : this.$message.error(this.$t("operator_exception")) : this.$message.error(this.$t("channel_exception"))
                     }
                     ), 1e3),
+                    successLogin(e) {
+                        U({
+                            uid: e
+                        }).then((e=>{
+                            e.code
+                        }
+                        ))
+                    },
                     outLogin() {
                         clearInterval(this.timeTwo),
                         this.timeTwo = "",
@@ -1475,17 +1467,17 @@
                     }
                 }
             })
-              , W = E
-              , F = (t(348),
-            t(8747),
+              , H = R
+              , J = (t(286),
+            t(1827),
             (0,
-            T.Z)(W, G, M, !1, null, "61ba947b", null))
-              , R = F.exports
-              , H = {
+            P.Z)(H, F, V, !1, null, "49a9e57d", null))
+              , K = J.exports
+              , Z = {
                 name: "App",
                 components: {
-                    Bottom: O,
-                    Header: R
+                    Bottom: M,
+                    Header: K
                 },
                 data() {
                     return {
@@ -1496,11 +1488,16 @@
                 created() {
                     this.nowUrlPath();
                     let e = "https://" + document.domain;
-                    this.getUrlParameter("operater_id") && this.getUrlParameter("agent_id") && this.getUrlParameter("language_id") ? (this.operaterId = this.setValue("operater_id"),
+                    this.getUrlParameter("operater_id") && this.getUrlParameter("agent_id") && this.getUrlParameter("language_id") ? (this.webParameter(),
+                    this.operaterId = this.setValue("operater_id"),
                     sessionStorage.getItem("firstComeIn") || (this.addAccessNumber(),
                     sessionStorage.setItem("firstComeIn", !0))) : this.addDomainInfo(e)
                 },
                 mounted() {
+                    window.addEventListener("hashchange", (()=>{
+                        this.$router.go(0)
+                    }
+                    ), !1),
                     window.close = function() {
                         localStorage.clear(),
                         sessionStorage.clear();
@@ -1524,7 +1521,7 @@
                         })
                     },
                     addDomainInfo(e) {
-                        D({
+                        B({
                             domain: e
                         }).then((a=>{
                             if (200 == a.code) {
@@ -1546,10 +1543,23 @@
                     },
                     addAccessNumber() {
                         let e = this.setValue("operater_id");
-                        k({
+                        C({
                             operater_id: e
                         }).then((e=>{
                             200 != e.code && this.$message.error(e.msg)
+                        }
+                        ))
+                    },
+                    webParameter() {
+                        L({
+                            operater_id: this.getUrlParameter("operater_id"),
+                            agent_id: this.getUrlParameter("agent_id"),
+                            invite_code: this.getUrlParameter("invite")
+                        }).then((e=>{
+                            if (200 != e.code) {
+                                let e = "https://" + document.domain;
+                                window.location.href = e
+                            }
                         }
                         ))
                     },
@@ -1592,17 +1602,17 @@
                     }
                 }
             }
-              , Z = H
-              , K = (t(636),
+              , Y = Z
+              , Q = (t(9065),
             (0,
-            T.Z)(Z, o, n, !1, null, null, null))
-              , J = K.exports
-              , Y = (t(2578),
+            P.Z)(Y, o, n, !1, null, null, null))
+              , X = Q.exports
+              , ee = (t(2578),
             t(4912),
             t(9219),
             t(7822))
-              , Q = t(8345)
-              , X = function() {
+              , ae = t(8345)
+              , te = function() {
                 var e = this
                   , a = e._self._c;
                 return a("div", [a("el-row", {
@@ -1612,10 +1622,16 @@
                     }
                 }, [a("div", {
                     staticClass: "home_web"
-                }, [a("img", {
+                }, [e.logoShow ? a("img", {
                     staticClass: "logo",
                     attrs: {
-                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGO.png",
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGOly1.png",
+                        alt: ""
+                    }
+                }) : a("img", {
+                    staticClass: "logo",
+                    attrs: {
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGOly3.png",
                         alt: ""
                     }
                 }), a("div", {
@@ -1649,14 +1665,29 @@
                         id: "qrCode"
                     }
                 })]), a("div", {
+                    staticClass: "playerVideo",
+                    on: {
+                        click: function(a) {
+                            e.playerDialog = !0
+                        }
+                    }
+                }, [a("img", {
+                    staticClass: "playerVideoImg",
+                    attrs: {
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/play.png",
+                        alt: ""
+                    }
+                })]), a("div", {
                     staticClass: "content_bg"
+                }, [a("div", {
+                    staticClass: "logoImg"
                 }, [a("img", {
                     staticClass: "contentLogo",
                     attrs: {
-                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/content_logo.png",
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/1.png",
                         alt: ""
                     }
-                }), a("div", {
+                })]), a("div", {
                     staticClass: "btnBox flcenter"
                 }, [a("div", {
                     staticClass: "playGame whiteBg"
@@ -1684,7 +1715,7 @@
                         staticClass: "activity whiteBg"
                     }, [a("img", {
                         attrs: {
-                            src: t.pic || "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/gonggao.png",
+                            src: t.pic || e.logoShow ? "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/activityImg/ly1activity.png" : "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/activityImg/ly3activity.png",
                             alt: ""
                         }
                     }), a("div", {
@@ -1719,7 +1750,7 @@
                         }
                     }, [a("img", {
                         attrs: {
-                            src: t.pic || "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/gonggao.png",
+                            src: t.pic || e.logoShow ? "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/activityImg/ly1activity.png" : "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/activityImg/ly3activity.png",
                             alt: ""
                         }
                     }), a("div", {
@@ -1973,7 +2004,7 @@
                     }
                 }), a("div", {
                     staticClass: "introduction_title w80margin margin_30"
-                }, [e._v(e._s(e.$t("content_introduce")))]), a("div", {
+                }, [e._v(e._s(e.logoShow ? e.$t("content_introduce_ly1") : e.$t("content_introduce_ly3")))]), a("div", {
                     staticClass: "introduction_info w80margin flaround textCenter"
                 }, e._l(e.allData, (function(t, i) {
                     return a("div", {
@@ -2027,17 +2058,77 @@
                             return e.homeOpenWebGame("phone")
                         }
                     }
-                }, [e._v(" " + e._s(e.$t("manor")) + " ")])])])])])]), a("el-row", {
+                }, [e._v(" " + e._s(e.$t("manor")) + " ")])])])]), a("el-dialog", {
+                    attrs: {
+                        title: "提示",
+                        visible: e.playerDialog,
+                        width: "40%",
+                        "before-close": e.handleClose
+                    },
+                    on: {
+                        "update:visible": function(a) {
+                            e.playerDialog = a
+                        }
+                    }
+                }, [a("el-carousel", {
+                    attrs: {
+                        arrow: "always",
+                        height: "410px",
+                        autoplay: !1,
+                        "indicator-position": "outside"
+                    },
+                    on: {
+                        change: e.changeVideo
+                    }
+                }, [a("el-carousel-item", [a("video", {
+                    ref: "videoPlay",
+                    staticClass: "video1 videoPlayer",
+                    attrs: {
+                        fluid: !1,
+                        poster: e.posterImg,
+                        controls: !0,
+                        preload: "true",
+                        "webkit-playsinline": "",
+                        playsinline: "",
+                        "x5-playsinline": "",
+                        src: e.playerSrc
+                    },
+                    domProps: {
+                        muted: !0
+                    }
+                })]), e.playerSrc2 ? a("el-carousel-item", [a("video", {
+                    ref: "videoPlay",
+                    staticClass: "video2 videoPlayer",
+                    attrs: {
+                        fluid: !1,
+                        poster: e.posterImg2,
+                        controls: !0,
+                        preload: "true",
+                        "webkit-playsinline": "",
+                        playsinline: "",
+                        "x5-playsinline": "",
+                        src: e.playerSrc2
+                    },
+                    domProps: {
+                        muted: !0
+                    }
+                })]) : e._e()], 1)], 1)], 1)]), a("el-row", {
                     staticClass: "hidden-sm-and-up",
                     attrs: {
                         gutter: 0
                     }
                 }, [a("div", {
                     staticClass: "home_mobile"
-                }, [a("img", {
+                }, [e.logoShow ? a("img", {
                     staticClass: "logo_mobile",
                     attrs: {
-                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGO.png",
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGOly1.png",
+                        alt: ""
+                    }
+                }) : a("img", {
+                    staticClass: "logo_mobile",
+                    attrs: {
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGOly3.png",
                         alt: ""
                     }
                 }), a("div", {
@@ -2051,6 +2142,18 @@
                 }), a("div", {
                     staticClass: "contentLogo_height"
                 }), a("div", {
+                    staticClass: "playerVideo",
+                    on: {
+                        click: function(a) {
+                            e.playerDialogMobile = !0
+                        }
+                    }
+                }, [a("img", {
+                    attrs: {
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/play.png",
+                        alt: ""
+                    }
+                })]), a("div", {
                     staticClass: "btnBox flcenter"
                 }, [e.iosShow ? a("div", {
                     staticClass: "playGame btnBg",
@@ -2066,7 +2169,72 @@
                             return e.homeDownGameNow(2)
                         }
                     }
-                }, [e._v(" Android ")]) : e._e()])]), e.activityData.length > 0 ? a("div", {
+                }, [e._v(" Android ")]) : e._e()]), a("el-dialog", {
+                    staticStyle: {
+                        padding: "5px"
+                    },
+                    attrs: {
+                        title: "提示",
+                        visible: e.playerDialogMobile,
+                        width: "100%",
+                        top: "40%",
+                        "before-close": e.handleClose
+                    },
+                    on: {
+                        "update:visible": function(a) {
+                            e.playerDialogMobile = a
+                        }
+                    }
+                }, [a("el-carousel", {
+                    staticClass: "w100",
+                    attrs: {
+                        arrow: "always",
+                        autoplay: !1,
+                        "indicator-position": "outside",
+                        height: "200px"
+                    },
+                    on: {
+                        change: e.changeVideo
+                    }
+                }, [a("el-carousel-item", {
+                    staticClass: "w100"
+                }, [a("video", {
+                    ref: "videoPlay",
+                    staticClass: "video3 w100",
+                    attrs: {
+                        fluid: !1,
+                        poster: e.posterImg,
+                        controls: !0,
+                        preload: "true",
+                        loop: !0,
+                        "webkit-playsinline": "",
+                        playsinline: "",
+                        "x5-playsinline": "",
+                        src: e.playerSrc
+                    },
+                    domProps: {
+                        muted: !0
+                    }
+                })]), e.playerSrc2 ? a("el-carousel-item", {
+                    staticClass: "w100"
+                }, [a("video", {
+                    ref: "videoPlay",
+                    staticClass: "video4 w100",
+                    attrs: {
+                        fluid: !1,
+                        poster: e.posterImg2,
+                        controls: !0,
+                        preload: "true",
+                        loop: !0,
+                        "webkit-playsinline": "",
+                        playsinline: "",
+                        "x5-playsinline": "",
+                        src: e.playerSrc2
+                    },
+                    domProps: {
+                        muted: !0
+                    }
+                })]) : e._e()], 1)], 1)], 1), e.activityData.length > 0 ? a("div", {
                     staticClass: "content_activity"
                 }, [a("vue-seamless-scroll", {
                     staticClass: "seamless-warp2",
@@ -2088,7 +2256,7 @@
                         }
                     }, [a("img", {
                         attrs: {
-                            src: t.pic || "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/gonggao.png",
+                            src: t.pic || e.logoShow ? "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/activityImg/ly1activity.png" : "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/activityImg/ly3activity.png",
                             alt: ""
                         }
                     }), a("div", {
@@ -2337,7 +2505,7 @@
                     }
                 })]), a("div", {
                     staticClass: "introduction_title"
-                }, [e._v(e._s(e.$t("content_introduce")))]), a("div", {
+                }, [e._v(e._s(e.logoShow ? e.$t("content_introduce_ly1") : e.$t("content_introduce_ly3")))]), a("div", {
                     staticClass: "introduction_info flaround textCenter"
                 }, e._l(e.allData, (function(t, i) {
                     return a("div", {
@@ -2364,10 +2532,10 @@
                     staticClass: "manor w55margin"
                 })])])])])])], 1)
             }
-              , ee = []
-              , ae = t(7418)
-              , te = t.n(ae)
-              , ie = function() {
+              , ie = []
+              , oe = t(7418)
+              , ne = t.n(oe)
+              , se = function() {
                 var e = this
                   , a = e._self._c;
                 return a("div", {
@@ -2381,8 +2549,8 @@
                     }
                 })
             }
-              , oe = []
-              , ne = {
+              , re = []
+              , le = {
                 data() {
                     return {
                         DateData: [],
@@ -2425,7 +2593,7 @@
                     },
                     initEcharts() {
                         var e = document.getElementById("mychart")
-                          , a = Y.init(e);
+                          , a = ee.init(e);
                         window.addEventListener("resize", (()=>{
                             a.resize()
                         }
@@ -2492,15 +2660,15 @@
                     }
                 }
             }
-              , se = ne
-              , re = (0,
-            T.Z)(se, ie, oe, !1, null, null, null)
-              , le = re.exports
-              , de = {
+              , de = le
+              , ue = (0,
+            P.Z)(de, se, re, !1, null, null, null)
+              , ce = ue.exports
+              , me = {
                 components: {
-                    vueSeamlessScroll: te(),
-                    Echart: le,
-                    Bottom: O
+                    vueSeamlessScroll: ne(),
+                    Echart: ce,
+                    Bottom: M
                 },
                 data() {
                     return {
@@ -2510,7 +2678,7 @@
                         marketIndex: 1,
                         propDataList: [],
                         propIndex: -1,
-                        sellIcon: "https://farm-phpadmin.c98.xyz/icon/item/101.png",
+                        sellIcon: "https://farm-phpadmin.wbnr.xyz/icon/item/101.png",
                         androidShow: !1,
                         iosShow: !1,
                         currencyMoment: -2,
@@ -2527,7 +2695,15 @@
                         graphDataYear: [],
                         showData: [],
                         showLoginId: "",
-                        iosUrl: ""
+                        iosUrl: "",
+                        playerSrc: "",
+                        posterImg: "",
+                        playerSrc2: "",
+                        posterImg2: "",
+                        playerDialog: !0,
+                        playerDialogMobile: !0,
+                        logoShow: !0,
+                        serverResouUrl: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/"
                     }
                 },
                 computed: {
@@ -2596,7 +2772,17 @@
                         this.whetherLogin(),
                         this.getActivityList(),
                         this.getPhoneInfo(),
-                        this.getOpeninstallList()
+                        this.getOpeninstallList();
+                        let e = "https://" + document.domain;
+                        "https://www.littlebeefarm.net" == e ? (this.playerSrc = this.serverResouUrl + "video/ly3_1.mp4",
+                        this.posterImg = this.serverResouUrl + "littleBeeFarm.png",
+                        this.playerSrc2 = this.serverResouUrl + "video/ly3_2.mp4",
+                        this.posterImg2 = this.serverResouUrl + "ly3_2.png",
+                        this.logoShow = !1) : (this.playerSrc = this.serverResouUrl + "video/ly1_1.mp4",
+                        this.posterImg = this.serverResouUrl + "waterfallfarm.png",
+                        this.playerSrc2 = this.serverResouUrl + "video/ly1_2.mp4",
+                        this.posterImg2 = this.serverResouUrl + "ly3_2.png",
+                        this.logoShow = !0)
                     },
                     whetherLogin() {
                         sessionStorage.getItem("loginId") && (this.showLoginId = sessionStorage.getItem("loginId"))
@@ -2605,7 +2791,7 @@
                         let e = ""
                           , a = "https://" + document.domain;
                         document.getElementById("qrCode").innerHTML = "",
-                        D({
+                        B({
                             domain: a
                         }).then((t=>{
                             if (200 == t.code) {
@@ -2618,13 +2804,13 @@
                                 e = this.setValue("invite") && this.setValue("inviter_id") ? a + `#/home?operater_id=${i}&agent_id=${o}&language_id=${n}&invite=${this.setValue("invite")}&inviter_id=${this.setValue("inviter_id")}` : this.setValue("invite") ? a + `#/home?operater_id=${i}&agent_id=${o}&language_id=${n}&invite=${this.setValue("invite")}` : this.setValue("inviter_id") ? a + `#/home?operater_id=${i}&agent_id=${o}&language_id=${n}&inviter_id=${this.setValue("inviter_id")}` : a + `#/home?operater_id=${i}&agent_id=${o}&language_id=${n}`
                             } else
                                 e = window.location.href;
-                            new (c())(this.$refs.qrCodeDiv,{
+                            new (g())(this.$refs.qrCodeDiv,{
                                 text: e,
                                 width: 95,
                                 height: 95,
                                 colorDark: "#333333",
                                 colorLight: "#ffffff",
-                                correctLevel: c().CorrectLevel.L
+                                correctLevel: g().CorrectLevel.L
                             })
                         }
                         ))
@@ -2638,14 +2824,14 @@
                     },
                     getPropList() {
                         let e = this.setValue("operater_id");
-                        e && S({
+                        e && $({
                             operater_id: e
                         }).then((e=>{
                             200 == e.code ? (this.propDataList = e.data.item_data,
                             e.data.all_reg_count < 1e6 && (e.data.all_reg_count = 1e6),
                             this.allData[0].data = e.data.all_reg_count,
                             this.allData[2].data = e.data.get_market_order_count,
-                            this.showData.push(e.data.visit_count, e.data.get_cash_money, e.data.quarter_reg_count)) : this.$message.error(e.msg)
+                            this.showData.push(100 * e.data.visit_count, 100 * e.data.get_cash_money, 100 * e.data.quarter_reg_count)) : this.$message.error(e.msg)
                         }
                         ))
                     },
@@ -2661,7 +2847,7 @@
                     getGraphList(e) {
                         let a = this
                           , t = this.setValue("operater_id");
-                        t && I({
+                        t && N({
                             operater_id: t,
                             item_id: e || 101
                         }).then((e=>{
@@ -2678,17 +2864,21 @@
                     },
                     getActivityList() {
                         let e = this.setValue("operater_id");
-                        e && C({
+                        e && S({
                             operater_id: e
                         }).then((e=>{
                             200 == e.code ? (this.activityData = [],
+                            e.data.map((e=>{
+                                e.send_time && (e.send_time = this.formaTime(e.send_time))
+                            }
+                            )),
                             e.data.length > 3 ? this.activityData = e.data.splice(0, 3) : this.activityData = e.data) : this.$message.error(e.msg)
                         }
                         ))
                     },
                     getDealList() {
                         let e = this.setValue("operater_id");
-                        e && N({
+                        e && I({
                             operater_id: e,
                             page: 1,
                             size: 50
@@ -2700,7 +2890,7 @@
                     },
                     getOpeninstallList() {
                         let e = this.setValue("operater_id");
-                        e && $({
+                        e && z({
                             operater_id: e
                         }).then((e=>{
                             localStorage.removeItem("url"),
@@ -2718,8 +2908,10 @@
                         var a = t(2437)
                           , i = new a(navigator.userAgent);
                         "AndroidOS" == i.os() ? (this.androidShow = !0,
-                        this.iosShow = !1) : "iOS" == i.os() && (this.androidShow = !1,
-                        this.iosShow = !0)
+                        this.iosShow = !1,
+                        this.playerDialog = !1) : "iOS" == i.os() ? (this.androidShow = !1,
+                        this.iosShow = !0,
+                        this.playerDialog = !1) : this.playerDialogMobile = !1
                     },
                     homeOpenWebGame(e) {
                         this.$parent.$children.map(((a,t)=>{
@@ -2733,7 +2925,7 @@
                         }
                         ))
                     },
-                    homeDownGameNow: m((function(e, a, t) {
+                    homeDownGameNow: p((function(e, a, t) {
                         (this.Android || this.ios) && (e = this.Android ? 2 : 3),
                         this.$parent.$children.map(((a,t)=>{
                             a.openWebGame && this.$parent.$children[t].downGameNow(e)
@@ -2741,6 +2933,28 @@
                         ))
                     }
                     ), 1e3),
+                    handleClose(e) {
+                        e();
+                        var a = document.getElementsByClassName("video1")[0]
+                          , t = document.getElementsByClassName("video2")[0]
+                          , i = document.getElementsByClassName("video3")[0]
+                          , o = document.getElementsByClassName("video4")[0];
+                        a && a.pause(),
+                        t && t.pause(),
+                        i && i.pause(),
+                        o && o.pause()
+                    },
+                    changeVideo(e) {
+                        var a = document.getElementsByClassName("video1")[0]
+                          , t = document.getElementsByClassName("video2")[0]
+                          , i = document.getElementsByClassName("video3")[0]
+                          , o = document.getElementsByClassName("video4")[0];
+                        this.playerDialogMobile ? 0 == e ? (i.play(),
+                        o.pause()) : (i.pause(),
+                        o.play()) : 0 == e ? (a.play(),
+                        t.pause()) : (a.pause(),
+                        t.play())
+                    },
                     copy() {
                         let e = parseInt((new Date).getTime() / 1e3)
                           , a = "8p83fwh50kpcuj25"
@@ -2763,9 +2977,12 @@
                         sessionStorage.getItem("outUrlType") ? (o = this.setValue("user_id"),
                         n = sessionStorage.getItem("outUrlType")) : (o = sessionStorage.getItem("phoneCode"),
                         n = "phone"),
-                        i = "&s=" + P()(String(o) + String(e) + a) + "&i=" + o + "&time=" + e + "&t=" + n;
+                        i = "&s=" + E()(String(o) + String(e) + a) + "&i=" + o + "&time=" + e + "&t=" + n;
+
+                        console.log(i);
+
                         var c = "";
-                        c = sessionStorage.getItem("loginId") ? encodeURIComponent(j.DS.encode(JSON.stringify(t))) + i : encodeURIComponent(j.DS.encode(JSON.stringify(t)));
+                        c = sessionStorage.getItem("loginId") ? encodeURIComponent(W.DS.encode(JSON.stringify(t))) + i : i;
                         let m = document.createElement("input");
                         return m.value = c,
                         document.body.appendChild(m),
@@ -2778,6 +2995,16 @@
                             document.execCommand("Copy") ? e(c) : a(c)
                         }
                         ))) : this.setValue("operater_id") ? this.$message.error(this.$t("network_download")) : this.$message.error(this.$t("illegal_connection"))
+                    },
+                    formaTime(e) {
+                        let a = new Date(e)
+                          , t = a.getFullYear()
+                          , i = (a.getMonth() + 1).toString().padStart(2, "0")
+                          , o = a.getDate().toString().padStart(2, "0")
+                          , n = a.getHours().toString().padStart(2, "0")
+                          , s = a.getMinutes().toString().padStart(2, "0")
+                          , r = a.getSeconds().toString().padStart(2, "0");
+                        return `${i}-${o}-${t} ${n}:${s}:${r}`
                     },
                     setValue(e) {
                         return this.getUrlParameter(e) ? this.getUrlParameter(e) : this.getLcolaOneUrlData(e) ? this.getLcolaOneUrlData(e) : this.getLcolaUrlData(e) ? this.getLcolaUrlData(e) : ""
@@ -2833,12 +3060,12 @@
                     }
                 }
             }
-              , ue = de
-              , ce = (t(9835),
+              , ge = me
+              , pe = (t(2363),
             (0,
-            T.Z)(ue, X, ee, !1, null, "62cb1345", null))
-              , me = ce.exports
-              , ge = function() {
+            P.Z)(ge, te, ie, !1, null, "ef549078", null))
+              , he = pe.exports
+              , _e = function() {
                 var e = this
                   , a = e._self._c;
                 return a("div", [a("el-row", {
@@ -2848,10 +3075,16 @@
                     }
                 }, [a("div", {
                     staticClass: "game_web"
-                }, [a("img", {
+                }, [e.logoShow ? a("img", {
                     staticClass: "logo",
                     attrs: {
-                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGO.png",
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGOly1.png",
+                        alt: ""
+                    }
+                }) : a("img", {
+                    staticClass: "logo",
+                    attrs: {
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGOly3.png",
                         alt: ""
                     }
                 }), a("div", {
@@ -2994,10 +3227,16 @@
                     }
                 }, [a("div", {
                     staticClass: "game_mobile"
-                }, [a("img", {
+                }, [e.logoShow ? a("img", {
                     staticClass: "logo_mobile",
                     attrs: {
-                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGO.png",
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGOly1.png",
+                        alt: ""
+                    }
+                }) : a("img", {
+                    staticClass: "logo_mobile",
+                    attrs: {
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGOly3.png",
                         alt: ""
                     }
                 }), a("div", {
@@ -3072,8 +3311,8 @@
                 }
                 )), 0)])])])], 1)
             }
-              , pe = []
-              , he = {
+              , be = []
+              , fe = {
                 data() {
                     return {
                         loading: !0,
@@ -3146,12 +3385,15 @@
                             url: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/about_game/plant_bg.png",
                             title: this.$t("plant"),
                             text: this.$t("plant_text")
-                        }]
+                        }],
+                        logoShow: !0
                     }
                 },
                 mounted() {
                     this.loading = !1,
-                    this.chooseBackUrl = this.featuresBgData[0].url
+                    this.chooseBackUrl = this.featuresBgData[0].url;
+                    let e = "https://" + document.domain;
+                    this.logoShow = "https://www.littlebeefarm.net" != e
                 },
                 methods: {
                     changeWebIndic(e) {
@@ -3164,18 +3406,18 @@
                         this.chooseWebIndic = e,
                         this.$refs.carouselWeb.setActiveItem(this.chooseWebIndic)
                     },
-                    chooseIndicatorMob: m((function(e, a, t) {
+                    chooseIndicatorMob: p((function(e, a, t) {
                         this.chooseMobIndic = e,
                         this.$refs.carousel.setActiveItem(this.chooseMobIndic)
                     }
                     ), 200),
-                    chooseWebPrev: m((function(e, a) {
+                    chooseWebPrev: p((function(e, a) {
                         this.chooseWebIndic < 2 ? (this.chooseWebIndic++,
                         this.$refs.carouselWeb.prev()) : (this.chooseWebIndic = 0,
                         this.$refs.carouselWeb.prev())
                     }
                     ), 200),
-                    chooseWebNext: m((function(e, a) {
+                    chooseWebNext: p((function(e, a) {
                         this.chooseWebIndic < 2 ? (this.chooseWebIndic++,
                         this.$refs.carouselWeb.next()) : (this.chooseWebIndic = 0,
                         this.$refs.carouselWeb.next())
@@ -3190,7 +3432,7 @@
                         this.chooseBackUrl = this.featuresBgData[e].url,
                         this.$refs.introduce.setActiveItem(this.featuresIndex)
                     },
-                    chooseLeft: m((function(e, a) {
+                    chooseLeft: p((function(e, a) {
                         this.featuresIndex > 0 ? (this.featuresIndex--,
                         this.featuresIndex = this.featuresIndex,
                         this.$refs.introduce.prev(),
@@ -3199,7 +3441,7 @@
                         this.changeBack(this.featuresBgData[this.featuresIndex].url))
                     }
                     ), 200),
-                    chooseRight: m((function(e, a) {
+                    chooseRight: p((function(e, a) {
                         this.featuresIndex < 3 ? (this.featuresIndex++,
                         this.$refs.introduce.next(),
                         this.changeBack(this.featuresBgData[this.featuresIndex].url)) : (this.featuresIndex = 0,
@@ -3276,12 +3518,12 @@
                     }
                 }
             }
-              , be = he
-              , _e = (t(152),
+              , we = fe
+              , ve = (t(8902),
             (0,
-            T.Z)(be, ge, pe, !1, null, "69125d5a", null))
-              , fe = _e.exports
-              , we = function() {
+            P.Z)(we, _e, be, !1, null, "7e1d84f1", null))
+              , xe = ve.exports
+              , ye = function() {
                 var e = this
                   , a = e._self._c;
                 return a("div", [a("el-row", {
@@ -3291,10 +3533,16 @@
                     }
                 }, [a("div", {
                     staticClass: "question_web"
-                }, [a("img", {
+                }, [e.logoShow ? a("img", {
                     staticClass: "logo",
                     attrs: {
-                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGO.png",
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGOly1.png",
+                        alt: ""
+                    }
+                }) : a("img", {
+                    staticClass: "logo",
+                    attrs: {
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGOly3.png",
                         alt: ""
                     }
                 }), a("div", {
@@ -3336,10 +3584,16 @@
                     }
                 }, [a("div", {
                     staticClass: "question_mobile"
-                }, [a("img", {
+                }, [e.logoShow ? a("img", {
                     staticClass: "logo_mobile",
                     attrs: {
-                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGO.png",
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGOly1.png",
+                        alt: ""
+                    }
+                }) : a("img", {
+                    staticClass: "logo_mobile",
+                    attrs: {
+                        src: "https://farm-res.s3.ap-southeast-1.amazonaws.com/web/assets/LOGOly3.png",
                         alt: ""
                     }
                 }), a("div", {
@@ -3376,42 +3630,47 @@
                 }
                 ))], 2)])])], 1)
             }
-              , ve = []
-              , xe = {
+              , ke = []
+              , Ce = {
                 data() {
                     return {
-                        questionData: [{
-                            title: this.$t("question1"),
-                            text: this.$t("answer1")
-                        }, {
-                            title: this.$t("question2"),
-                            text: this.$t("answer2")
-                        }, {
-                            title: this.$t("question3"),
-                            text: this.$t("answer3")
-                        }, {
-                            title: this.$t("question4"),
-                            text: this.$t("answer4")
-                        }, {
-                            title: this.$t("question5"),
-                            text: this.$t("answer5")
-                        }, {
-                            title: this.$t("question6"),
-                            text: this.$t("answer6")
-                        }, {
-                            title: this.$t("question7"),
-                            text: this.$t("answer7")
-                        }, {
-                            title: this.$t("question8"),
-                            text: this.$t("answer8")
-                        }, {
-                            title: this.$t("question9"),
-                            text: this.$t("answer9")
-                        }],
+                        logoShow: !0,
+                        questionData: [],
                         questionIndex: -1
                     }
                 },
-                mounted() {},
+                mounted() {
+                    let e = "https://" + document.domain;
+                    this.logoShow = "https://www.littlebeefarm.net" != e,
+                    this.questionData = [{
+                        title: this.logoShow ? this.$t("question1_ly1") : this.$t("question1_ly3"),
+                        text: this.logoShow ? this.$t("answer1_ly1") : this.$t("answer1_ly3")
+                    }, {
+                        title: this.logoShow ? this.$t("question2_ly1") : this.$t("question2_ly3"),
+                        text: this.logoShow ? this.$t("answer2_ly1") : this.$t("answer2_ly3")
+                    }, {
+                        title: this.$t("question3"),
+                        text: this.$t("answer3")
+                    }, {
+                        title: this.$t("question4"),
+                        text: this.$t("answer4")
+                    }, {
+                        title: this.$t("question5"),
+                        text: this.$t("answer5")
+                    }, {
+                        title: this.$t("question6"),
+                        text: this.$t("answer6")
+                    }, {
+                        title: this.$t("question7"),
+                        text: this.$t("answer7")
+                    }, {
+                        title: this.$t("question8"),
+                        text: this.$t("answer8")
+                    }, {
+                        title: this.$t("question9"),
+                        text: this.$t("answer9")
+                    }]
+                },
                 methods: {
                     chooseItem(e) {
                         e == this.questionIndex ? this.questionIndex = -1 : this.questionIndex = e
@@ -3448,33 +3707,33 @@
                     }
                 }
             }
-              , ye = xe
-              , ke = (t(6969),
+              , Se = Ce
+              , Ie = (t(5268),
             (0,
-            T.Z)(ye, we, ve, !1, null, "f0d20430", null))
-              , Ce = ke.exports;
-            i["default"].use(Q.ZP);
-            const Ne = [{
+            P.Z)(Se, ye, ke, !1, null, "fb456c2e", null))
+              , Ne = Ie.exports;
+            i["default"].use(ae.ZP);
+            const $e = [{
                 path: "/",
-                component: me
+                component: he
             }, {
                 path: "/home",
-                component: me
+                component: he
             }, {
                 path: "/game",
-                component: fe
+                component: xe
             }, {
                 path: "/question",
-                component: Ce
+                component: Ne
             }]
-              , Ie = new Q.ZP({
+              , ze = new ae.ZP({
                 mode: "hash",
-                routes: Ne
+                routes: $e
             });
-            var Se = Ie
-              , $e = t(9742)
-              , ze = t(7152)
-              , De = {
+            var De = ze
+              , Be = t(9742)
+              , qe = t(7152)
+              , Le = {
                 login: "登录",
                 outlogin: "退出登录",
                 home: "主页",
@@ -3488,6 +3747,12 @@
                 content_title: "BeeFarm是一款基于区块链技术的模拟经营农场游戏",
                 content_text: "玩家可以在市场内自由交易，已经拥有100万用户注册了BeeFarm",
                 content_introduce: "BeeFarm打造了“社交游戏体验”的盈利模式",
+                content_title_ly1: "WaterFallFarm是一款基于区块链技术的模拟经营农场游戏",
+                content_text_ly1: "玩家可以在市场内自由交易，已经拥有100万用户注册了WaterFallFarm",
+                content_introduce_ly1: "WaterFallFarm打造了“社交游戏体验”的盈利模式",
+                content_title_ly3: "LittleBeeFarm是一款基于区块链技术的模拟经营农场游戏",
+                content_text_ly3: "玩家可以在市场内自由交易，已经拥有100万用户注册了LittleBeeFarm",
+                content_introduce_ly3: "LittleBeeFarm打造了“社交游戏体验”的盈利模式",
                 login_game: "登陆游戏",
                 dowm_game: "下载APP",
                 sell: "卖出",
@@ -3578,6 +3843,14 @@
                 answer1: "蜜蜂世界是一款面向全球的元宇宙模拟经营庄园游戏。玩家可以打造自己的豪华庄园，不断升级，在市场赚取大量财富。也可以和好友一起组建团队，不断发展壮大，并且获得巨大财富。",
                 question2: "2.如何加入蜜蜂庄园？",
                 answer2: "要加入我们的蜜蜂庄园，您需要下载我们的游戏或者在我们的网页端进行游戏。",
+                question1_ly1: "1.什么是瀑布农场？",
+                answer1_ly1: "瀑布农场是一款面向全球的元宇宙模拟经营庄园游戏。玩家可以打造自己的豪华庄园，不断升级，在市场赚取大量财富。也可以和好友一起组建团队，不断发展壮大，并且获得巨大财富。",
+                question2_ly1: "2.如何加入瀑布农场？",
+                answer2_ly1: "要加入我们的瀑布农场，您需要下载我们的游戏或者在我们的网页端进行游戏。",
+                question1_ly3: "1.什么是小蜜蜂农场？",
+                answer1_ly3: "小蜜蜂农场是一款面向全球的元宇宙模拟经营庄园游戏。玩家可以打造自己的豪华庄园，不断升级，在市场赚取大量财富。也可以和好友一起组建团队，不断发展壮大，并且获得巨大财富。",
+                question2_ly3: "2.如何加入小蜜蜂农场？",
+                answer2_ly3: "要加入我们的小蜜蜂农场，您需要下载我们的游戏或者在我们的网页端进行游戏。",
                 question3: "3.如何升级我的农场小屋？",
                 answer3: "收集各种农产品和畜牧产品就可以获得农场小屋，当经验满足条件就可以升级啦！",
                 question4: "4.什么是异常状态？",
@@ -3593,7 +3866,7 @@
                 question9: "9.家族是什么？如何加入好友的家族？",
                 answer9: "家族是众多玩家一起游戏团结合作的一个团体，能够互相拜访庄园，帮助清除动植物的异常状态等等。可以通过好友的邀请加入好友的家族。"
             }
-              , Be = {
+              , Ue = {
                 login: "Sign In",
                 outlogin: "Sign Out",
                 home: "Homepage",
@@ -3718,7 +3991,7 @@
                 question9: "9.  What is a family? How to join my friend's family?",
                 answer9: "The family is a community for many players to work together. The family members can visit each other's farm and help them deal with the status effect at their farm. You can join your friend's family through invitation."
             }
-              , Le = {
+              , Te = {
                 login: "Log in",
                 outlogin: "Log out",
                 home: "Beranda",
@@ -3732,6 +4005,12 @@
                 content_title: "BeeFarm adalah sebuah game simulasi pertanian dengan teknologi blockchain",
                 content_text: "Pemain bisa melakukan transaksi bebas di pasar yang sudah memiliki 1 Juta pengguna yang sudah mendaftar di BeeFarm",
                 content_introduce: 'BeeFarm menciptakan mode monetisasi dari "Mencoba Komunitas Game"',
+                content_title_ly1: "waterFallFarm adalah sebuah game simulasi pertanian dengan teknologi blockchain",
+                content_text_ly1: "Pemain bisa melakukan transaksi bebas di pasar yang sudah memiliki 1 Juta pengguna yang sudah mendaftar di waterFallFarm",
+                content_introduce_ly1: 'waterFallFarm menciptakan mode monetisasi dari "Mencoba Komunitas Game"',
+                content_title_ly3: "littleBeeFarm adalah sebuah game simulasi pertanian dengan teknologi blockchain",
+                content_text_ly3: "Pemain bisa melakukan transaksi bebas di pasar yang sudah memiliki 1 Juta pengguna yang sudah mendaftar di littleBeeFarm",
+                content_introduce_ly3: 'littleBeeFarm menciptakan mode monetisasi dari "Mencoba Komunitas Game"',
                 login_game: "Log in Game",
                 dowm_game: "Unduh aplikasi",
                 sell: "Jual",
@@ -3822,6 +4101,14 @@
                 answer1: "BeeFarm adalah sebuah game simulasi mengelola perkebunan yang bersifat metamesta global. Pemain bisa menciptakan perkebunan mewah milik sendiri, terus upgrade dan dapatkan banyak keuntungan di pasar. Selain itu, juga bisa membentuk tim dengan teman untuk mengembangkannya dan mendapat banyak keuntungan.",
                 question2: "2.Bagaimana cara bergabung dengan BeeFarm?",
                 answer2: "Jika ingin bergabung dengan BeeFarm, Anda perlu unduh game kami atau mainkan game di halaman web kami.",
+                question1_ly1: "1. Apa itu waterFallFarm?",
+                answer1_ly1: "waterFallFarm adalah sebuah game simulasi mengelola perkebunan yang bersifat metamesta global. Pemain bisa menciptakan perkebunan mewah milik sendiri, terus upgrade dan dapatkan banyak keuntungan di pasar. Selain itu, juga bisa membentuk tim dengan teman untuk mengembangkannya dan mendapat banyak keuntungan.",
+                question2_ly1: "2.Bagaimana cara bergabung dengan waterFallFarm?",
+                answer2_ly1: "Jika ingin bergabung dengan waterFallFarm, Anda perlu unduh game kami atau mainkan game di halaman web kami.",
+                question1_ly3: "1. Apa itu littleBeeFarm?",
+                answer1_ly3: "littleBeeFarm adalah sebuah game simulasi mengelola perkebunan yang bersifat metamesta global. Pemain bisa menciptakan perkebunan mewah milik sendiri, terus upgrade dan dapatkan banyak keuntungan di pasar. Selain itu, juga bisa membentuk tim dengan teman untuk mengembangkannya dan mendapat banyak keuntungan.",
+                question2_ly3: "2.Bagaimana cara bergabung dengan littleBeeFarm?",
+                answer2_ly3: "Jika ingin bergabung dengan littleBeeFarm, Anda perlu unduh game kami atau mainkan game di halaman web kami.",
                 question3: "3. Bagaimana cara upgrade rumahku?",
                 answer3: "Koleksi berbagai produk hewan dan produk pertanian agar bisa memenuhi persyaratan upgrade rumah!",
                 question4: "4.Apa itu status abnormal?",
@@ -3837,7 +4124,7 @@
                 question9: "9. Apa itu keluarga? Bagaimana cara bergabung ke keluarga baik?",
                 answer9: "Keluarga adalah sebuah tim yang terbentuk dari hasil kerja sama para pemain, bisa saling mengunjungi perkebunan untuk menghilangkan status abnormal tanaman dan lainnya. Bisa bergabung ke keluarga teman dengan cara diundang oleh teman."
             }
-              , Ue = {
+              , Oe = {
                 login: "Iniciar Sesión",
                 outlogin: "Cerrar Sesión",
                 home: "Página Inicial",
@@ -3855,6 +4142,12 @@
                 content_title: "BeeFarm es un simulador agrícola basado en blockchain.",
                 content_text: "El jugador puede usar el mercado en línea para negociar libremente. Hasta ahora, hay más de 1 millón de usuarios registrados en BeeFarm",
                 content_introduce: "BeeFarm permite un modelo de ganancias de “EXPERIENCIA DE JUEGO DE RED SOCIAL”",
+                content_title_ly1: "waterFallFarm es un simulador agrícola basado en blockchain.",
+                content_text_ly1: "El jugador puede usar el mercado en línea para negociar libremente. Hasta ahora, hay más de 1 millón de usuarios registrados en waterFallFarm",
+                content_introduce_ly1: "waterFallFarm permite un modelo de ganancias de “EXPERIENCIA DE JUEGO DE RED SOCIAL”",
+                content_title_ly3: "littleBeeFarm es un simulador agrícola basado en blockchain.",
+                content_text_ly3: "El jugador puede usar el mercado en línea para negociar libremente. Hasta ahora, hay más de 1 millón de usuarios registrados en littleBeeFarm",
+                content_introduce_ly3: "littleBeeFarm permite un modelo de ganancias de “EXPERIENCIA DE JUEGO DE RED SOCIAL”",
                 login_game: "Juega Ahora",
                 dowm_game: "Bajar Aplicación",
                 sell: "Vender",
@@ -3947,6 +4240,14 @@
                 answer1: "BeeFarm es un simulador de mansión de agricultura del metaverso que es abierto a los jugadores de todo el mundo. El jugador puede crear su misma hermosa mansión y seguir mejorándola para obtener una buena ganancia en el mercado. También pueden hacer equipo con sus amigos para construir un grupo para expandirse continuamente y ganar riqueza.",
                 question2: "2. Cómo unirse al BeeFarm?",
                 answer2: "Para unirte al BeeFarm, simplemente baja nuestro juego o juega el juego desde la página principal.",
+                question1_ly1: "1. Qué es waterFallFarm?",
+                answer1_ly1: "waterFallFarm es un simulador de mansión de agricultura del metaverso que es abierto a los jugadores de todo el mundo. El jugador puede crear su misma hermosa mansión y seguir mejorándola para obtener una buena ganancia en el mercado. También pueden hacer equipo con sus amigos para construir un grupo para expandirse continuamente y ganar riqueza.",
+                question2_ly1: "2. Cómo unirse al waterFallFarm?",
+                answer2_ly1: "Para unirte al waterFallFarm, simplemente baja nuestro juego o juega el juego desde la página principal.",
+                question1_ly3: "1. Qué es littleBeeFarm?",
+                answer1_ly3: "littleBeeFarm es un simulador de mansión de agricultura del metaverso que es abierto a los jugadores de todo el mundo. El jugador puede crear su misma hermosa mansión y seguir mejorándola para obtener una buena ganancia en el mercado. También pueden hacer equipo con sus amigos para construir un grupo para expandirse continuamente y ganar riqueza.",
+                question2_ly3: "2. Cómo unirse al littleBeeFarm?",
+                answer2_ly3: "Para unirte al littleBeeFarm, simplemente baja nuestro juego o juega el juego desde la página principal.",
                 question3: "3. Cómo mejorar mi cabaña de hacienda?",
                 answer3: "Puedes recoger varios productos de cultivo y ganado para ganar experiencias. ¡Cuando la cabaña haya acumulado suficientes experiencias, cumplirás los requerimientos para mejorarla!",
                 question4: "4. Qué es un Efecto de Estatus?",
@@ -3962,52 +4263,187 @@
                 question9: "9. Qué es una familia? ¿Cómo puedo unirme a la familia de mi amigo?",
                 answer9: "La familia es una comunidad de varios jugadores que trabajan juntos. Los miembros de la familia pueden visitar las haciendas de los otros miembros y ayudarlos a lidiar con los efectos de estatus en sus haciendas. Puedes unirte a la familia de tu amigo a través de una invitación."
             }
-              , Te = t(1877)
-              , qe = t(9903)
-              , Oe = t(4566)
-              , Ge = t(5571);
-            i["default"].use(ze.Z);
-            const Me = {
-                zh_cn: Object.assign(Te["default"], De),
-                en_us: Object.assign(qe.Z, Be),
-                in_hi: Object.assign(Oe.Z, Le),
-                es_es: Object.assign(Ge.Z, Ue)
+              , Pe = {
+                login: "登錄",
+                outlogin: "退出登錄",
+                home: "主頁",
+                game: "關於遊戲",
+                game_about: "關於遊戲",
+                game_features: "新的玩法",
+                question: "常見問題",
+                market: "市場",
+                introduce: "介紹",
+                hall: "大廳",
+                content_title: "BeeFarm是一款基於區塊鏈技術的模擬經營農場遊戲",
+                content_text: "玩家可以在市場內自由交易，已經擁有100萬用戶註冊了BeeFarm",
+                content_introduce: "BeeFarm打造了“社交遊戲體驗”的盈利模式",
+                content_title_ly1: "WaterFallFarm是一款基於區塊鏈技術的模擬經營農場遊戲",
+                content_text_ly1: "玩家可以在市場內自由交易，已經擁有100萬用戶註冊了WaterFallFarm",
+                content_introduce_ly1: "WaterFallFarm打造了“社交遊戲體驗”的盈利模式",
+                content_title_ly3: "LittleBeeFarm是一款基於區塊鏈技術的模擬經營農場遊戲",
+                content_text_ly3: "玩家可以在市場內自由交易，已經擁有100萬用戶註冊了LittleBeeFarm",
+                content_introduce_ly3: "LittleBeeFarm打造了“社交遊戲體驗”的盈利模式",
+                login_game: "登陸遊戲",
+                dowm_game: "下載APP",
+                sell: "賣出",
+                days: "天",
+                months: "月",
+                years: "年",
+                market_tips: "開市時間 9:00-24:00 每天開盤時生成今日收購價",
+                today_price: "售價",
+                selling_price: "售價曲線圖",
+                greate_ffree_account: "創建帳戶",
+                all_visitors: "總訪客",
+                all_withdrawal: "總提現金額",
+                quarterly_new_users: "季度新增用户",
+                gem: "寶石",
+                shell_coin: "貝殼幣",
+                price_sold: "的價格出售了",
+                order_to: "以",
+                part: "份",
+                der: "的",
+                get_value: "獲得價值",
+                value: "價值",
+                sell: "出貨",
+                buy: "收貨",
+                each: "每份",
+                free_market: "可以在市場內自由交易",
+                store_buy: "在商店購買種子或者幼崽",
+                fram_pasture: "在農場或牧場經行種植或養殖",
+                free_product: "獲得的產品在市場自由交易",
+                manor: "開啟您的莊園之旅",
+                trade: "進行交易",
+                download_family: "下載移動版，去市場自由自在交易，與家族成員暢玩",
+                superior: "上級",
+                phone: "手機",
+                email: "郵箱",
+                area_code: "區號選擇",
+                please_phone: "請輸入手機號",
+                please_phone_sure: "請輸入正確的手機號格式",
+                verification_code: "驗證碼",
+                please_code: "請輸入驗證碼",
+                please_code_sure: "請輸入正確的驗證碼格式",
+                get_again: "重新獲取",
+                get_code: "獲取驗證碼",
+                send_code: "已發送驗證碼",
+                failed_send_code: "驗證碼發送失敗",
+                register_now: "立即註冊",
+                please_area_code: "請先選擇區號",
+                please_sure_email: "請輸入正確的郵箱號",
+                login_success: "登錄成功",
+                login_timeout: "登錄超時，請重新登陸",
+                login_ing: "當前已登錄，請退出登錄之後再操作！",
+                please_install_wallet: "請安裝MetaMask錢包",
+                please_login_wallet: "請檢查您的MetaMask錢包是否登錄!",
+                not_open: "功能暫未開放",
+                announcement: "公告",
+                determine: "確定",
+                user: "用户",
+                countries: "國家",
+                volume: "季度交易量",
+                illegal_connection: "非法鏈接,請重新獲取鏈接",
+                network_download: "當前網路不穩定，請更換網路後下載",
+                activities_begin: "精彩活動開啟",
+                scene_map: "全新場景地圖，去看看吧",
+                features: "新的特色",
+                operator_exception: "運營商資訊異常，請聯繫管理員",
+                channel_exception: "管道ID異常，請聯繫管理員",
+                record_present: "暫無交易記錄",
+                contact_administrator: "鏈接錯誤,請聯繫管理員",
+                download_contact_administrator: "無法下載,請聯繫管理員",
+                cultivation: "養殖",
+                cultivation_text: "飼養可愛的幼崽，來生產豐富的畜牧產品。在市場售賣，賺取大量財產，打造你的莊園帝國",
+                building: "建築",
+                building_text: "建造農田、牧場，升級小屋，並且不斷升級來擴大莊園，解鎖更多有趣的幼崽和種子。趕快加入我們吧！",
+                cultivate: "培養",
+                cultivate_text: "栽培農作物是一件非常重要的事情，農產品從種子中生長，收穫的農產品不僅可以餵養動物，更可以在市場售賣換取巨額財富。",
+                statue: "神像",
+                statue_text: "勞動是一件非常光榮聖神的事情，在各種神像的庇佑下，莊園會日益壯大。升級神像，讓我們的莊園快速發展吧！",
+                family: "家族",
+                family_text: "加入或者創建一個家族，和朋友們一起耕作養殖，在朋友中名列前茅，賺取千萬傭金。",
+                pasture: "牧場",
+                pasture_text: "為動物們打造的舒適家園。只有在牧場裏，動物們才會快樂的茁壯成長，生產大量優質的畜牧產品。",
+                farm: "農場",
+                farm_text: "種植各種農作物的地方，能供為農作物提供肥沃的土地，更高級的土地能夠種植更高級的農作物。",
+                animal: "動物",
+                animal_text: "各種動物幼崽通過飼養成長，並且生產對應的畜牧產品，比如可愛的小牛長大後會生產甜美的牛奶。",
+                plant: "植物",
+                plant_text: "種植這些植物，精心照料他們，等到他們成熟，也就意味著豐收也將來臨。",
+                question1: "1.什麼是蜜蜂莊園？",
+                answer1: "蜜蜂世界是一款面向全球的元宇宙模擬經營莊園遊戲。玩家可以打造自己的豪華莊園，不斷升級，在市場賺取大量財富。也可以和好友一起組建團隊，不斷發展壯大，並且獲得巨大財富。",
+                question2: "2.如何加入蜜蜂莊園？",
+                answer2: "要加入我們的蜜蜂莊園，您需要下載我們的遊戲或者在我們的網頁端進行遊戲。",
+                question1_ly1: "1.什麼是瀑布農場？",
+                answer1_ly1: "瀑布農場是一款面向全球的元宇宙模擬經營莊園遊戲。玩家可以打造自己的豪華莊園，不斷升級，在市場賺取大量財富。也可以和好友一起組建團隊，不斷發展壯大，並且獲得巨大財富。",
+                question2_ly1: "2.如何加入瀑布農場？",
+                answer2_ly1: "要加入我們的瀑布農場，您需要下載我們的遊戲或者在我們的網頁端進行遊戲。",
+                question1_ly3: "1.什麼是小蜜蜂農場？",
+                answer1_ly3: "小蜜蜂農場世界是一款面向全球的元宇宙模擬經營莊園遊戲。玩家可以打造自己的豪華莊園，不斷升級，在市場賺取大量財富。也可以和好友一起組建團隊，不斷發展壯大，並且獲得巨大財富。",
+                question2_ly3: "2.如何加入小蜜蜂農場？",
+                answer2_ly3: "要加入我們的小蜜蜂農場，您需要下載我們的遊戲或者在我們的網頁端進行遊戲。",
+                question3: "3.如何升級我的農場小屋？",
+                answer3: "收集各種農產品和畜牧產品就可以獲得農場小屋，當經驗滿足條件就可以升級啦！",
+                question4: "4.什麼是異常狀態？",
+                answer4: "當植物缺水、長雜草、生害蟲以及動物饑餓、受到蚊蟲騷擾等。",
+                question5: "5.我種的植物缺水了怎麼辦？",
+                answer5: "點擊植物，在螢幕下方選擇水桶進行澆水就可以啦。當植物處於異常狀態，將會停止生長，所以為了保證收益需要儘快處理。",
+                question6: "6.什麼是貝殼幣、寶石？",
+                answer6: "貝殼幣是遊戲中非常重要的貨幣，能夠購買珍貴的幼崽和種子，並且賺取的貝殼幣可以獲得大量的USDT。寶石是遊戲中的一種通用貨幣，可以通過貝殼幣兌換獲得，是升級土地的重要貨幣。",
+                question7: "7.什麼是市場？",
+                answer7: "市場是在特定時間開盤的，給玩家提供自由交易的場所。玩家可以通過在市場售賣農牧產品賺取大量貝殼幣，也可以使用貝殼幣在市場購買心儀的商品。",
+                question8: "8.傭金是什麼？",
+                answer8: "傭金是您的團隊業績和對應的返傭係數相乘然後減去所有的直屬團隊業績乘以對應返傭係數的積的一個差值。",
+                question9: "9.家族是什么？如何加入好友的家族？",
+                answer9: "家族是眾多玩家一起遊戲團結合作的一個團體，能夠互相拜訪莊園，幫助清除動植物的異常狀態等等。可以通過好友的邀請加入好友的家族。"
             }
-              , Ae = new ze.Z({
+              , Ge = t(1877)
+              , Me = t(9903)
+              , Fe = t(4566)
+              , Ve = t(5571)
+              , je = t(6868);
+            i["default"].use(qe.Z);
+            const Ae = {
+                zh_cn: Object.assign(Ge["default"], Le),
+                en_us: Object.assign(Me.Z, Ue),
+                in_hi: Object.assign(Fe.Z, Te),
+                es_es: Object.assign(Ve.Z, Oe),
+                zh_hk: Object.assign(je.Z, Pe)
+            }
+              , Ee = new qe.Z({
                 locale: sessionStorage.getItem("local"),
-                messages: Me,
+                messages: Ae,
                 silentTranslationWarn: !0
             });
             i["default"].locale = ()=>{}
             ;
-            var Ve = Ae;
-            b().Dialog.props.lockScroll["default"] = !1,
-            i["default"].prototype.$echarts = Y,
+            var We = Ee;
+            _().Dialog.props.lockScroll["default"] = !1,
+            i["default"].prototype.$echarts = ee,
             i["default"].config.productionTip = !1,
-            i["default"].use(Q.ZP),
-            i["default"].use($e),
+            i["default"].use(ae.ZP),
+            i["default"].use(Be),
             i["default"].config.productionTip = !1,
-            i["default"].prototype.Web3 = r(),
-            i["default"].use(b(), {
-                i18n: (e,a)=>Ve.t(e, a)
+            i["default"].prototype.Web3 = d(),
+            i["default"].use(_(), {
+                i18n: (e,a)=>We.t(e, a)
             }),
-            i["default"].prototype.$http = p(),
+            i["default"].prototype.$http = r(),
             new i["default"]({
                 el: "#app",
-                router: Se,
-                Base64: $e,
-                i18n: Ve,
-                echarts: Y,
-                render: e=>e(J)
+                router: De,
+                Base64: Be,
+                i18n: We,
+                echarts: ee,
+                render: e=>e(X)
             })
         },
-        636: function(e, a, t) {
-            var i = t(3266);
+        9065: function(e, a, t) {
+            var i = t(9981);
             i.__esModule && (i = i.default),
             "string" === typeof i && (i = [[e.id, i, ""]]),
             i.locals && (e.exports = i.locals);
             var o = t(4402).Z;
-            o("01871b2f", i, !0, {
+            o("504ded4a", i, !0, {
                 sourceMap: !1,
                 shadowMode: !1
             })
@@ -4034,57 +4470,57 @@
                 shadowMode: !1
             })
         },
-        348: function(e, a, t) {
-            var i = t(5441);
+        286: function(e, a, t) {
+            var i = t(5326);
             i.__esModule && (i = i.default),
             "string" === typeof i && (i = [[e.id, i, ""]]),
             i.locals && (e.exports = i.locals);
             var o = t(4402).Z;
-            o("4a00bc47", i, !0, {
+            o("ff846e3e", i, !0, {
                 sourceMap: !1,
                 shadowMode: !1
             })
         },
-        8747: function(e, a, t) {
-            var i = t(4169);
+        1827: function(e, a, t) {
+            var i = t(7468);
             i.__esModule && (i = i.default),
             "string" === typeof i && (i = [[e.id, i, ""]]),
             i.locals && (e.exports = i.locals);
             var o = t(4402).Z;
-            o("082ae5bd", i, !0, {
+            o("48f28957", i, !0, {
                 sourceMap: !1,
                 shadowMode: !1
             })
         },
-        152: function(e, a, t) {
-            var i = t(9029);
+        8902: function(e, a, t) {
+            var i = t(7136);
             i.__esModule && (i = i.default),
             "string" === typeof i && (i = [[e.id, i, ""]]),
             i.locals && (e.exports = i.locals);
             var o = t(4402).Z;
-            o("8e3d6f26", i, !0, {
+            o("85ba1054", i, !0, {
                 sourceMap: !1,
                 shadowMode: !1
             })
         },
-        9835: function(e, a, t) {
-            var i = t(5799);
+        2363: function(e, a, t) {
+            var i = t(4034);
             i.__esModule && (i = i.default),
             "string" === typeof i && (i = [[e.id, i, ""]]),
             i.locals && (e.exports = i.locals);
             var o = t(4402).Z;
-            o("590ac30c", i, !0, {
+            o("492f1286", i, !0, {
                 sourceMap: !1,
                 shadowMode: !1
             })
         },
-        6969: function(e, a, t) {
-            var i = t(9459);
+        5268: function(e, a, t) {
+            var i = t(1247);
             i.__esModule && (i = i.default),
             "string" === typeof i && (i = [[e.id, i, ""]]),
             i.locals && (e.exports = i.locals);
             var o = t(4402).Z;
-            o("3b3ef627", i, !0, {
+            o("bdba3f6a", i, !0, {
                 sourceMap: !1,
                 shadowMode: !1
             })
@@ -4229,7 +4665,7 @@
         i.push = a.bind(null, i.push.bind(i))
     }();
     var i = t.O(void 0, [998], (function() {
-        return t(8537)
+        return t(652)
     }
     ));
     i = t.O(i)

@@ -7479,7 +7479,7 @@ System.register("chunks:///_virtual/CommonUtil.ts", ["cc", "./GameAllData.ts"], 
                                   }
                       }),
                       (t.isTestNet = function () {
-                          return !!r.httpServerUrl && (!!r.httpServerUrl.includes("192.168") || !!r.httpServerUrl.includes("farm-sms.c92.xyz"));
+                          return !!r.httpServerUrl && (!!r.httpServerUrl.includes("192.168") || !!r.httpServerUrl.includes("gameresfarm.mrmb.xyz"));
                       }),
                       t
                   );
@@ -14120,7 +14120,7 @@ System.register(
                                                                   (t = ""), (e.t0 = Number(E.operatorId)), (e.next = 999 === e.t0 ? 4 : 998 === e.t0 ? 6 : 997 === e.t0 ? 8 : 10);
                                                                   break;
                                                               case 4:
-                                                                  return (t = "https://farm-sms.c92.xyz/api/api/v1/"), e.abrupt("break", 10);
+                                                                  return (t = "https://gameresfarm.mrmb.xyz/api/api/v1/"), e.abrupt("break", 10);
                                                               case 6:
                                                                   return (t = "http://192.168.100.42:9100/api/v1/"), e.abrupt("break", 10);
                                                               case 8:

@@ -12143,7 +12143,7 @@ System.register("chunks:///_virtual/CommonUtil.ts", ['cc', './GameAllData.ts'], 
             return true;
           }
 
-          if (GameAllData.httpServerUrl.includes("farm-sms.c92.xyz")) {
+          if (GameAllData.httpServerUrl.includes("gameresfarm.mrmb.xyz")) {
             return true;
           }
 
@@ -21200,7 +21200,7 @@ System.register("chunks:///_virtual/GameMain.ts", ['./rollupPluginModLoBabelHelp
 
                   case 4:
                     //外网测试
-                    serverUrl = "https://farm-sms.c92.xyz/api/api/v1/"; // serverUrl = "http://192.168.100.82:9100/api/v1/";
+                    serverUrl = "https://gameresfarm.mrmb.xyz/api/api/v1/"; // serverUrl = "http://192.168.100.82:9100/api/v1/";
 
                     return _context3.abrupt("break", 14);
 
